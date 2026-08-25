@@ -1,0 +1,58 @@
+[
+  {
+    "id": "i0",
+    "plan": {
+      "goals": [
+        "align_arch",
+        "procline_upper_incisors",
+        "procline_lower_incisors"
+      ],
+      "move_teeth": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        21,
+        22,
+        23,
+        24,
+        25,
+        31,
+        32,
+        33,
+        34,
+        35,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "fixed_teeth": [],
+      "movement_rationale": {
+        "11": "Proclination of upper incisors.",
+        "12": "Proclination of upper incisors.",
+        "13": "Proclination of upper incisors.",
+        "14": "Coordinated upper-arch posterior movement consistent with 'align_arch'.",
+        "15": "Coordinated upper-arch posterior movement consistent with 'align_arch'.",
+        "21": "Proclination of upper incisors.",
+        "22": "Proclination of upper incisors.",
+        "23": "Proclination of upper incisors.",
+        "24": "Coordinated upper-arch posterior movement consistent with 'align_arch'.",
+        "25": "Coordinated upper-arch posterior movement consistent with 'align_arch'.",
+        "31": "Proclination of lower incisors.",
+        "32": "Proclination of lower incisors.",
+        "33": "Proclination of lower incisors.",
+        "34": "Coordinated lower-arch posterior movement consistent with 'align_arch'.",
+        "35": "Coordinated lower-arch posterior movement consistent with 'align_arch'.",
+        "41": "Proclination of lower incisors.",
+        "42": "Proclination of lower incisors.",
+        "43": "Proclination of lower incisors.",
+        "44": "Coordinated lower-arch posterior movement consistent with 'align_arch'.",
+        "45": "Coordinated lower-arch posterior movement consistent with 'align_arch'."
+      },
+      "confidence": 0.8
+    }
+  }
+]
