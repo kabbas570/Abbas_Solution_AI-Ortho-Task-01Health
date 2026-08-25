@@ -1,0 +1,58 @@
+[
+  {
+    "id": "i0",
+    "plan": {
+      "goals": [
+        "align_arch",
+        "correct_tip"
+      ],
+      "move_teeth": [
+        11,
+        12,
+        13,
+        21,
+        22,
+        23,
+        31,
+        32,
+        33,
+        41,
+        42,
+        43
+      ],
+      "fixed_teeth": [
+        14,
+        15,
+        16,
+        17,
+        24,
+        25,
+        26,
+        27,
+        34,
+        35,
+        36,
+        37,
+        44,
+        45,
+        46,
+        47
+      ],
+      "movement_rationale": {
+        "13": "Correct tip and add buccal root torque.",
+        "23": "Correct tip and add buccal root torque.",
+        "33": "Align 3-3 upper and lower.",
+        "43": "Move buccally to match ll2.",
+        "11": "Align upper and lower arch.",
+        "12": "Align upper and lower arch.",
+        "21": "Align upper and lower arch.",
+        "22": "Align upper and lower arch.",
+        "31": "Align upper and lower arch.",
+        "32": "Align upper and lower arch.",
+        "41": "Align upper and lower arch.",
+        "42": "Align upper and lower arch."
+      },
+      "confidence": 0.9
+    }
+  }
+]

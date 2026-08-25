@@ -1,0 +1,59 @@
+[
+  {
+    "id": "i0",
+    "plan": {
+      "goals": [
+        "procline_upper_incisors",
+        "procline_lower_incisors",
+        "align_arch"
+      ],
+      "move_teeth": [
+        11,
+        12,
+        13,
+        21,
+        22,
+        23,
+        31,
+        32,
+        33,
+        41,
+        42,
+        43
+      ],
+      "fixed_teeth": [
+        14,
+        15,
+        16,
+        17,
+        24,
+        25,
+        26,
+        27,
+        34,
+        35,
+        36,
+        37,
+        44,
+        45,
+        46,
+        47
+      ],
+      "movement_rationale": {
+        "11": "Proclination of upper incisors to correct alignment.",
+        "12": "Proclination of upper incisors to correct alignment.",
+        "13": "Proclination of upper incisors to correct alignment.",
+        "21": "Proclination of upper incisors to correct alignment.",
+        "22": "Proclination of upper incisors to correct alignment.",
+        "23": "Proclination of upper incisors to correct alignment.",
+        "31": "Proclination of lower incisors to correct alignment.",
+        "32": "Proclination of lower incisors to correct alignment.",
+        "33": "Proclination of lower incisors to correct alignment.",
+        "41": "Proclination of lower incisors to correct alignment.",
+        "42": "Proclination of lower incisors to correct alignment.",
+        "43": "Proclination of lower incisors to correct alignment."
+      },
+      "confidence": 0.8
+    }
+  }
+]

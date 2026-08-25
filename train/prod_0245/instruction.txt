@@ -1,0 +1,35 @@
+Goals:
+reduce AOB
+reduce OJ
+relieve crowding.
+accept L5s.
+
+Dentist's Requests (e.g. delaying attachments):  nil
+
+Canine and Molar Classification - Where would you like to end up? :  accept 
+
+AP Plane Correction:  part reduce OJ.
+
+Final Overjet Goals (mm):  reduce as much as possible. 
+
+Vertical Plane Correction:  reduce AOB
+
+Final Overbite Goals (mm):  +1mm
+
+Transverse Plane Correction:  expand across U premolars only.  
+
+How to Resolve Crowding (IPR, staging of movement etc.):
+UPPER:
+expand across U premolars, accept rotation UR5.
+add labial crown torque UR2 and UL1.
+extrude UR1 & UR2. 
+add distal crown angulation UL1. 
+IPR U arch for OJ reduction. 
+
+LOWER:
+procline L2-2.
+IPR L arch and round trip but accept some proclination of L2-2. 
+level tip L2-2. 
+correct L midline with IPR.
+correct rotations L3s.
+Accept position of LR5 & LL5. 

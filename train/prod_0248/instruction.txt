@@ -1,0 +1,31 @@
+Goals:
+1st refinement:
+rotate LL2
+minor adjustments other incisors.
+
+Dentist's Requests (e.g. delaying attachments):  nil
+
+Canine and Molar Classification - Where would you like to end up? :  maintain 
+
+AP Plane Correction:  no
+
+Final Overjet Goals (mm):  maintain
+
+Vertical Plane Correction:  no
+
+Final Overbite Goals (mm):  maintain
+
+Transverse Plane Correction:  no
+
+How to Resolve Crowding (IPR, staging of movement etc.):
+UPPER:
+add slight distal crown angulation UL2
+extrude Ur2 and UL2 by 0.5mm
+add virtual C chain U3-3 to last aligner
+
+LOWER:
+add 0.3mm IPR distal of LL2
+procline lower incisors
+add IPR LL1-LL2 contact when straight access
+retrocline L2-2 into arch form
+

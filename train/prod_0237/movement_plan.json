@@ -1,0 +1,59 @@
+[
+  {
+    "id": "i0",
+    "plan": {
+      "goals": [
+        "align_arch",
+        "correct_midlines",
+        "improve_OJ"
+      ],
+      "move_teeth": [
+        11,
+        12,
+        13,
+        21,
+        22,
+        23,
+        31,
+        32,
+        33,
+        41,
+        42,
+        43
+      ],
+      "fixed_teeth": [
+        14,
+        15,
+        16,
+        17,
+        24,
+        25,
+        26,
+        27,
+        34,
+        35,
+        36,
+        37,
+        44,
+        45,
+        46,
+        47
+      ],
+      "movement_rationale": {
+        "11": "Coordinated upper-arch anterior movement consistent with 'align_arch'.",
+        "12": "Procline and add labial root torque to UR2.",
+        "13": "Rotate UR3 distal-in and translate UR3 palatally into archform.",
+        "21": "Coordinated upper-arch anterior movement consistent with 'align_arch'.",
+        "22": "Procline UR2, add mesial crown angulation.",
+        "23": "Rotate UR3 distal-in and translate UR3 palatally into archform.",
+        "31": "Procline L2-2 and round trip L2-2 lingually into arch.",
+        "32": "Procline L2-2 and round trip L2-2 lingually into arch.",
+        "33": "Contract across L3-3.",
+        "41": "Over-correct rotation LR1.",
+        "42": "Procline L2-2 and round trip L2-2 lingually into arch.",
+        "43": "Contract across L3-3."
+      },
+      "confidence": 0.9
+    }
+  }
+]

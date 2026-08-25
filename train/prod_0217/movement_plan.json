@@ -1,0 +1,57 @@
+[
+  {
+    "id": "i0",
+    "plan": {
+      "goals": [
+        "align_arch",
+        "anterior_alignment"
+      ],
+      "move_teeth": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        23,
+        24,
+        25,
+        26,
+        27,
+        33,
+        34,
+        35,
+        36,
+        37,
+        43,
+        44,
+        45,
+        46,
+        47
+      ],
+      "fixed_teeth": [],
+      "movement_rationale": {
+        "13": "Upper arch alignment with mild proclination.",
+        "14": "Upper arch expansion.",
+        "15": "Upper arch expansion.",
+        "16": "Upper arch compression.",
+        "17": "Upper arch compression.",
+        "23": "Upper arch alignment with mild proclination.",
+        "24": "Upper arch expansion.",
+        "25": "Upper arch expansion.",
+        "26": "Upper arch expansion.",
+        "27": "Upper arch expansion.",
+        "33": "Lower arch alignment with IPR.",
+        "34": "Lower arch expansion.",
+        "35": "Lower arch expansion.",
+        "36": "Lower arch compression.",
+        "37": "Lower arch compression.",
+        "43": "Lower arch alignment with IPR.",
+        "44": "Lower arch expansion.",
+        "45": "Lower arch expansion.",
+        "46": "Lower arch expansion.",
+        "47": "Lower arch expansion."
+      },
+      "confidence": 0.9
+    }
+  }
+]

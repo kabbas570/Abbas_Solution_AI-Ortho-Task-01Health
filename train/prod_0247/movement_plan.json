@@ -1,0 +1,67 @@
+[
+  {
+    "id": "i0",
+    "plan": {
+      "goals": [
+        "torque_teeth",
+        "level_lower_incisors",
+        "add_attachments"
+      ],
+      "move_teeth": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        21,
+        22,
+        23,
+        24,
+        25,
+        31,
+        32,
+        33,
+        34,
+        35,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "fixed_teeth": [
+        16,
+        17,
+        26,
+        27,
+        36,
+        37,
+        46,
+        47
+      ],
+      "movement_rationale": {
+        "11": "Increased palatal root torque.",
+        "12": "Increased palatal root torque.",
+        "13": "Increased palatal root torque.",
+        "14": "Buccal root torque upper premolars.",
+        "15": "Buccal root torque upper premolars.",
+        "21": "Increased palatal root torque.",
+        "22": "Increased palatal root torque.",
+        "23": "Increased palatal root torque.",
+        "24": "Buccal root torque upper premolars.",
+        "25": "Buccal root torque upper premolars.",
+        "31": "Mesial out and distal in movement of ll1.",
+        "32": "Leveling of incisal edges.",
+        "33": "Buccal crown torque.",
+        "34": "Buccal root torque upper premolars.",
+        "35": "Buccal root torque upper premolars.",
+        "41": "Mesial out and distal in movement of lr1.",
+        "42": "Leveling of incisal edges.",
+        "43": "Buccal crown torque.",
+        "44": "Buccal root torque upper premolars.",
+        "45": "Buccal root torque upper premolars."
+      },
+      "confidence": 0.9
+    }
+  }
+]

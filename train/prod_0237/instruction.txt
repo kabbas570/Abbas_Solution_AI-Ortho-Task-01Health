@@ -1,0 +1,41 @@
+Goals:
+align anterior teeth
+improve OJ
+correct midlines
+
+Dentist's Requests (e.g. delaying attachments):  nil
+
+Canine and Molar Classification - Where would you like to end up? :   maintain current
+
+AP Plane Correction:  no
+
+Final Overjet Goals (mm): 2mm
+
+Vertical Plane Correction:  no
+
+Final Overbite Goals (mm):  maintain current
+
+Transverse Plane Correction: no
+
+How to Resolve Crowding (IPR, staging of movement etc.):
+UPPER:
+procline UR2, add labial root torque
+intrude UR1 to level with UL1 (1mm)
+add slight distal crown angulation UL1
+add mesial crown angulation UR2
+rotate UR3 distal-in
+translate UR3 palatally into archform
+IPR UR3 as needed
+
+LOWER:
+procline L2-2, IPR L3-3
+round trip L2-2 lingually into arch
+over-correct rotation LR1
+correct midline
+contract across L3-3
+aim for OJ of 1.5-2mm.
+
+
+
+Specific Tricky Teeth Instructions:  UR3
+

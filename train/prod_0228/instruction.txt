@@ -1,0 +1,29 @@
+Goals:
+anterior alignment
+max IPR 0.3mm per contact
+maintain posterior occlusion
+do not correct posterior crossbite 
+
+Dentist's Requests (e.g. delaying attachments): nil
+
+Canine and Molar Classification - Where would you like to end up? : maintain current
+
+AP Plane Correction: show resulting 
+
+Final Overjet Goals (mm): 2-3mm
+
+Vertical Plane Correction: nil
+
+Final Overbite Goals (mm): show resulting 
+
+Transverse Plane Correction: nil
+
+How to Resolve Crowding (IPR, staging of movement etc.): max IPR 0.3mm contact
+
+Specific Tricky Teeth Instructions: overcorrect rotations slight 
+
+Any Specific Aesthetic Goals: nil
+
+Avoid the Following: do not correct posterior crossbite 
+
+Additional Notes & Considerations e.g. attachment preferences, auxiliary preferences: nil

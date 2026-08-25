@@ -1,0 +1,70 @@
+[
+  {
+    "id": "i0",
+    "plan": {
+      "goals": [
+        "align_upper_anterior",
+        "align_lower_anterior"
+      ],
+      "move_teeth": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        31,
+        32,
+        33,
+        34,
+        35,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "fixed_teeth": [
+        36,
+        37,
+        46,
+        47
+      ],
+      "movement_rationale": {
+        "11": "Upper anterior alignment.",
+        "12": "Upper anterior alignment.",
+        "13": "Upper anterior alignment.",
+        "14": "Upper posterior expansion.",
+        "15": "Upper posterior expansion.",
+        "16": "Upper posterior expansion with mesial out bend.",
+        "17": "Upper posterior expansion with mesial out bend.",
+        "21": "Upper anterior alignment.",
+        "22": "Upper anterior alignment.",
+        "23": "Upper anterior alignment.",
+        "24": "Upper posterior expansion.",
+        "25": "Upper posterior expansion.",
+        "26": "Upper posterior expansion.",
+        "27": "Upper posterior expansion.",
+        "31": "Lower anterior alignment.",
+        "32": "Lower anterior alignment.",
+        "33": "Lower anterior alignment.",
+        "34": "Lower posterior expansion.",
+        "35": "Lower posterior expansion.",
+        "41": "Lower anterior alignment.",
+        "42": "Lower anterior alignment.",
+        "43": "Lower anterior alignment.",
+        "44": "Lower posterior expansion.",
+        "45": "Lower posterior expansion."
+      },
+      "confidence": 0.9
+    }
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "i0",
+    "plan": {
+      "goals": [
+        "anterior_alignment",
+        "space_closure"
+      ],
+      "move_teeth": [
+        11,
+        12,
+        13,
+        21,
+        22,
+        23,
+        31,
+        32,
+        33,
+        41,
+        42,
+        43
+      ],
+      "fixed_teeth": [
+        14,
+        15,
+        16,
+        17,
+        24,
+        25,
+        26,
+        27,
+        34,
+        35,
+        36,
+        37,
+        44,
+        45,
+        46,
+        47
+      ],
+      "movement_rationale": {
+        "11": "Proclination of upper anterior teeth to correct crowding and increase overjet.",
+        "12": "Proclination of upper anterior teeth to correct crowding and increase overjet.",
+        "13": "Proclination of upper anterior teeth to correct crowding and increase overjet.",
+        "21": "Proclination of upper anterior teeth to correct crowding and increase overjet.",
+        "22": "Proclination of upper anterior teeth to correct crowding and increase overjet.",
+        "23": "Proclination of upper anterior teeth to correct crowding and increase overjet.",
+        "31": "Proclination of lower anterior teeth to correct crowding.",
+        "32": "Proclination of lower anterior teeth to correct crowding.",
+        "33": "Proclination of lower anterior teeth to correct crowding.",
+        "41": "Proclination of lower anterior teeth to correct crowding.",
+        "42": "Proclination of lower anterior teeth to correct crowding.",
+        "43": "Proclination of lower anterior teeth to correct crowding."
+      },
+      "confidence": 0.9
+    }
+  }
+]

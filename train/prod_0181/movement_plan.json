@@ -1,0 +1,73 @@
+[
+  {
+    "id": "i0",
+    "plan": {
+      "goals": [
+        "align_arch",
+        "close_spaces"
+      ],
+      "move_teeth": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47
+      ],
+      "fixed_teeth": [],
+      "movement_rationale": {
+        "11": "Coordinated upper-arch anterior movement consistent with 'align_arch' and 'close_spaces'.",
+        "12": "Coordinated upper-arch anterior movement consistent with 'align_arch' and 'close_spaces'.",
+        "13": "Coordinated upper-arch anterior movement consistent with 'align_arch' and 'close_spaces'.",
+        "14": "Coordinated upper-arch posterior movement consistent with 'align_arch' and 'close_spaces'.",
+        "15": "Coordinated upper-arch posterior movement consistent with 'align_arch' and 'close_spaces'.",
+        "16": "Coordinated upper-arch posterior movement consistent with 'align_arch' and 'close_spaces'.",
+        "17": "Coordinated upper-arch posterior movement consistent with 'align_arch' and 'close_spaces'.",
+        "21": "Coordinated upper-arch anterior movement consistent with 'align_arch' and 'close_spaces'.",
+        "22": "Coordinated upper-arch anterior movement consistent with 'align_arch' and 'close_spaces'.",
+        "23": "Coordinated upper-arch anterior movement consistent with 'align_arch' and 'close_spaces'.",
+        "24": "Coordinated upper-arch posterior movement consistent with 'align_arch' and 'close_spaces'.",
+        "25": "Coordinated upper-arch posterior movement consistent with 'align_arch' and 'close_spaces'.",
+        "26": "Coordinated upper-arch posterior movement consistent with 'align_arch' and 'close_spaces'.",
+        "27": "Coordinated upper-arch posterior movement consistent with 'align_arch' and 'close_spaces'.",
+        "31": "Coordinated lower-arch anterior movement consistent with 'align_arch' and 'close_spaces'.",
+        "32": "Coordinated lower-arch anterior movement consistent with 'align_arch' and 'close_spaces'.",
+        "33": "Coordinated lower-arch anterior movement consistent with 'align_arch' and 'close_spaces'.",
+        "34": "Coordinated lower-arch posterior movement consistent with 'align_arch' and 'close_spaces'.",
+        "35": "Coordinated lower-arch posterior movement consistent with 'align_arch' and 'close_spaces'.",
+        "36": "Coordinated lower-arch posterior movement consistent with 'align_arch' and 'close_spaces'.",
+        "37": "Coordinated lower-arch posterior movement consistent with 'align_arch' and 'close_spaces'.",
+        "41": "Coordinated lower-arch anterior movement consistent with 'align_arch' and 'close_spaces'.",
+        "42": "Coordinated lower-arch anterior movement consistent with 'align_arch' and 'close_spaces'.",
+        "43": "Coordinated lower-arch anterior movement consistent with 'align_arch' and 'close_spaces'.",
+        "44": "Coordinated lower-arch posterior movement consistent with 'align_arch' and 'close_spaces'.",
+        "45": "Coordinated lower-arch posterior movement consistent with 'align_arch' and 'close_spaces'.",
+        "46": "Coordinated lower-arch posterior movement consistent with 'align_arch' and 'close_spaces'.",
+        "47": "Coordinated lower-arch posterior movement consistent with 'align_arch' and 'close_spaces'."
+      },
+      "confidence": 0.8
+    }
+  }
+]
