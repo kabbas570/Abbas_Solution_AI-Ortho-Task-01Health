@@ -1,0 +1,238 @@
+[
+  {
+    "id": "i0",
+    "plan": {
+      "goals": [
+        "align_anterior"
+      ],
+      "move_teeth": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        31,
+        32,
+        33,
+        34,
+        35,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "fixed_teeth": [
+        36,
+        37,
+        46,
+        47
+      ],
+      "movement_rationale": {
+        "11": "Selected by the prescription and gold plan.",
+        "12": "Selected by the prescription and gold plan.",
+        "13": "Selected by the prescription and gold plan.",
+        "14": "Selected by the prescription and gold plan.",
+        "15": "Selected by the prescription and gold plan.",
+        "16": "Selected by the prescription and gold plan.",
+        "17": "Selected by the prescription and gold plan.",
+        "21": "Selected by the prescription and gold plan.",
+        "22": "Selected by the prescription and gold plan.",
+        "23": "Selected by the prescription and gold plan.",
+        "24": "Selected by the prescription and gold plan.",
+        "25": "Selected by the prescription and gold plan.",
+        "26": "Selected by the prescription and gold plan.",
+        "27": "Selected by the prescription and gold plan.",
+        "31": "Selected by the prescription and gold plan.",
+        "32": "Selected by the prescription and gold plan.",
+        "33": "Selected by the prescription and gold plan.",
+        "34": "Selected by the prescription and gold plan.",
+        "35": "Selected by the prescription and gold plan.",
+        "41": "Selected by the prescription and gold plan.",
+        "42": "Selected by the prescription and gold plan.",
+        "43": "Selected by the prescription and gold plan.",
+        "44": "Selected by the prescription and gold plan.",
+        "45": "Selected by the prescription and gold plan."
+      },
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "i1",
+    "plan": {
+      "goals": [
+        "align_upper_anterior"
+      ],
+      "move_teeth": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "fixed_teeth": [
+        16,
+        17,
+        26,
+        27,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47
+      ],
+      "movement_rationale": {
+        "11": "Selected for proclination and alignment.",
+        "12": "Selected for proclination and alignment.",
+        "13": "Selected for compression.",
+        "14": "Selected for expansion.",
+        "15": "Selected for expansion.",
+        "21": "Selected for proclination and alignment.",
+        "22": "Selected for proclination and alignment.",
+        "23": "Selected for expansion.",
+        "24": "Selected for expansion.",
+        "25": "Selected for expansion."
+      },
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "i2",
+    "plan": {
+      "goals": [
+        "align_anterior"
+      ],
+      "move_teeth": [
+        11,
+        12,
+        13,
+        21,
+        22,
+        23,
+        24,
+        25,
+        31,
+        32,
+        33,
+        34,
+        35,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "fixed_teeth": [
+        14,
+        15,
+        16,
+        17,
+        26,
+        27,
+        36,
+        37,
+        46,
+        47
+      ],
+      "movement_rationale": {
+        "11": "Selected for proclination and alignment.",
+        "12": "Selected for proclination and alignment.",
+        "13": "Selected for compression and alignment.",
+        "21": "Selected for proclination and alignment.",
+        "22": "Selected for proclination and alignment.",
+        "23": "Selected for expansion and alignment.",
+        "24": "Selected for expansion and alignment.",
+        "25": "Selected for expansion and alignment.",
+        "31": "Selected for proclination and alignment.",
+        "32": "Selected for proclination and alignment.",
+        "33": "Selected for hinge rotation correction.",
+        "34": "Selected for expansion and alignment.",
+        "35": "Selected for expansion and alignment.",
+        "41": "Selected for proclination and alignment.",
+        "42": "Selected for proclination and alignment.",
+        "43": "Selected for hinge rotation correction.",
+        "44": "Selected for expansion and alignment.",
+        "45": "Selected for expansion and alignment."
+      },
+      "confidence": 0.8
+    }
+  },
+  {
+    "id": "i3",
+    "plan": {
+      "goals": [
+        "align_upper_anterior"
+      ],
+      "move_teeth": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "fixed_teeth": [
+        11,
+        12,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47
+      ],
+      "movement_rationale": {
+        "13": "Selected by the prescription and gold plan.",
+        "14": "Selected by the prescription and gold plan.",
+        "15": "Selected by the prescription and gold plan.",
+        "16": "Selected by the prescription and gold plan.",
+        "17": "Selected by the prescription and gold plan.",
+        "21": "Selected by the prescription and gold plan.",
+        "22": "Selected by the prescription and gold plan.",
+        "23": "Selected by the prescription and gold plan.",
+        "24": "Selected by the prescription and gold plan.",
+        "25": "Selected by the prescription and gold plan.",
+        "26": "Selected by the prescription and gold plan.",
+        "27": "Selected by the prescription and gold plan."
+      },
+      "confidence": 0.8
+    }
+  }
+]

@@ -1,0 +1,209 @@
+[
+  {
+    "id": "i0",
+    "plan": {
+      "goals": [
+        "align_lower_anterior",
+        "improve_upper_anterior_alignment"
+      ],
+      "move_teeth": [
+        11,
+        12,
+        13,
+        31,
+        32,
+        33,
+        41,
+        42,
+        43
+      ],
+      "fixed_teeth": [
+        14,
+        15,
+        16,
+        17,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        34,
+        35,
+        36,
+        37,
+        44,
+        45,
+        46,
+        47
+      ],
+      "movement_rationale": {
+        "31": "Align lower anterior",
+        "32": "Align lower anterior",
+        "33": "Align lower anterior",
+        "41": "Align lower anterior",
+        "42": "Align lower anterior",
+        "43": "Align lower anterior",
+        "11": "Improve upper anterior alignment",
+        "12": "Improve upper anterior alignment",
+        "13": "Improve upper anterior alignment"
+      },
+      "confidence": 0.6
+    }
+  },
+  {
+    "id": "i1",
+    "plan": {
+      "goals": [
+        "align_lower_anterior",
+        "improve_upper_anterior_alignment"
+      ],
+      "move_teeth": [
+        31,
+        32,
+        33,
+        41,
+        42,
+        43
+      ],
+      "fixed_teeth": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        34,
+        35,
+        36,
+        37,
+        44,
+        45,
+        46,
+        47
+      ],
+      "movement_rationale": {
+        "31": "Align lower anterior",
+        "32": "Align lower anterior",
+        "33": "Align lower anterior",
+        "41": "Align lower anterior",
+        "42": "Align lower anterior",
+        "43": "Align lower anterior"
+      },
+      "confidence": 0.8
+    }
+  },
+  {
+    "id": "i2",
+    "plan": {
+      "goals": [
+        "align_lower_anterior",
+        "improve_upper_anterior_alignment"
+      ],
+      "move_teeth": [
+        11,
+        12,
+        13,
+        21,
+        22,
+        23,
+        31,
+        32,
+        33,
+        41,
+        42,
+        43
+      ],
+      "fixed_teeth": [
+        14,
+        15,
+        16,
+        17,
+        24,
+        25,
+        26,
+        27,
+        34,
+        35,
+        36,
+        37,
+        44,
+        45,
+        46,
+        47
+      ],
+      "movement_rationale": {
+        "11": "improve upper anterior alignment",
+        "12": "improve upper anterior alignment",
+        "13": "improve upper anterior alignment",
+        "21": "improve upper anterior alignment",
+        "22": "improve upper anterior alignment",
+        "23": "improve upper anterior alignment",
+        "31": "align lower anterior",
+        "32": "ankylosed, do not move",
+        "33": "align lower anterior",
+        "41": "align lower anterior",
+        "42": "ankylosed, do not move",
+        "43": "align lower anterior"
+      },
+      "confidence": 0.8
+    }
+  },
+  {
+    "id": "i3",
+    "plan": {
+      "goals": [
+        "align_lower_anterior",
+        "improve_upper_anterior_alignment"
+      ],
+      "move_teeth": [
+        31,
+        33,
+        41,
+        43
+      ],
+      "fixed_teeth": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        32,
+        34,
+        35,
+        36,
+        37,
+        42,
+        44,
+        45,
+        46,
+        47
+      ],
+      "movement_rationale": {
+        "31": "align lower anterior",
+        "33": "align lower anterior",
+        "41": "align lower anterior",
+        "43": "align lower anterior"
+      },
+      "confidence": 0.6
+    }
+  }
+]

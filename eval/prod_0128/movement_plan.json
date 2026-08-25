@@ -1,0 +1,221 @@
+[
+  {
+    "id": "i0",
+    "plan": {
+      "goals": [
+        "align_arch",
+        "reduce_overjet",
+        "reduce_overbite"
+      ],
+      "move_teeth": [
+        11,
+        12,
+        13,
+        21,
+        22,
+        23,
+        31,
+        32,
+        33,
+        41,
+        42,
+        43
+      ],
+      "fixed_teeth": [
+        14,
+        15,
+        16,
+        17,
+        24,
+        25,
+        26,
+        27,
+        34,
+        35,
+        36,
+        37,
+        44,
+        45,
+        46,
+        47
+      ],
+      "movement_rationale": {
+        "11": "relieve crowding",
+        "12": "reduce OJ and improve aesthetics",
+        "13": "relieve crowding",
+        "21": "reduce OJ",
+        "22": "extrude and retract for OJ reduction",
+        "23": "relieve crowding",
+        "31": "procline for alignment",
+        "32": "procline for alignment",
+        "33": "relieve crowding",
+        "41": "procline for alignment",
+        "42": "extrude for open bite",
+        "43": "relieve crowding"
+      },
+      "confidence": 0.8
+    }
+  },
+  {
+    "id": "i1",
+    "plan": {
+      "goals": [
+        "align_arch"
+      ],
+      "move_teeth": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "fixed_teeth": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        36,
+        37,
+        46,
+        47
+      ],
+      "movement_rationale": {
+        "31": "procline into arch",
+        "32": "procline into arch",
+        "33": "procline into arch",
+        "34": "add lingual root torque",
+        "35": "IPR as needed",
+        "41": "procline into arch",
+        "42": "procline into arch",
+        "43": "procline into arch",
+        "44": "IPR as needed",
+        "45": "IPR as needed"
+      },
+      "confidence": 0.8
+    }
+  },
+  {
+    "id": "i2",
+    "plan": {
+      "goals": [
+        "align_arch",
+        "reduce_overjet",
+        "reduce_overbite"
+      ],
+      "move_teeth": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        21,
+        22,
+        23,
+        24,
+        25,
+        31,
+        32,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "fixed_teeth": [
+        33,
+        35
+      ],
+      "movement_rationale": {
+        "11": "relieve crowding",
+        "12": "reduce OJ and improve aesthetics",
+        "13": "IPR and reduce AOB",
+        "14": "IPR and reduce AOB",
+        "15": "IPR and reduce AOB",
+        "21": "procline and reduce OJ",
+        "22": "procline and reduce OJ",
+        "23": "IPR and reduce AOB",
+        "24": "IPR and reduce AOB",
+        "25": "IPR and reduce AOB",
+        "31": "relieve crowding",
+        "32": "relieve crowding",
+        "41": "procline and reduce OJ",
+        "42": "procline and reduce OJ",
+        "43": "IPR and reduce AOB",
+        "44": "IPR and reduce AOB",
+        "45": "IPR and reduce AOB"
+      },
+      "confidence": 0.8
+    }
+  },
+  {
+    "id": "i3",
+    "plan": {
+      "goals": [
+        "align_arch",
+        "relieve_crowding",
+        "improve_OJ",
+        "reduce_AOB"
+      ],
+      "move_teeth": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "fixed_teeth": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        36,
+        37,
+        46,
+        47
+      ],
+      "movement_rationale": {
+        "31": "procline into arch",
+        "32": "procline into arch",
+        "33": "not ankylosed, can move",
+        "34": "add lingual root torque",
+        "35": "procline into arch",
+        "41": "procline into arch",
+        "42": "procline into arch",
+        "43": "IPR as needed",
+        "44": "IPR as needed",
+        "45": "IPR as needed"
+      },
+      "confidence": 0.8
+    }
+  }
+]
