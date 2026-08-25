@@ -1,0 +1,21 @@
+Goals:
+accept OJ.
+remove buttons for elastics
+rotate LL5 - add attachment
+more rotation LR5, mesial-in.
+max IPR LR1- LL1 to reduce black triangle.
+optimal alignment L2-2.
+
+optimal alignment U3-3.
+
+
+Dentist's Requests (e.g. delaying attachments):  nil
+
+Canine and Molar Classification - Where would you like to end up? :  accept 
+
+AP Plane Correction:  no
+
+Final Overjet Goals (mm):  accept
+
+Vertical Plane Correction:  no
+

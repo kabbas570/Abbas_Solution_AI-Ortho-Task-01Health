@@ -1,0 +1,57 @@
+[
+  {
+    "id": "i0",
+    "plan": {
+      "goals": [
+        "align_arch"
+      ],
+      "move_teeth": [
+        11,
+        12,
+        13,
+        21,
+        22,
+        23,
+        31,
+        32,
+        33,
+        41,
+        42,
+        43
+      ],
+      "fixed_teeth": [
+        14,
+        15,
+        16,
+        17,
+        24,
+        25,
+        26,
+        27,
+        34,
+        35,
+        36,
+        37,
+        44,
+        45,
+        46,
+        47
+      ],
+      "movement_rationale": {
+        "11": "Coordinated upper-arch anterior movement consistent with 'align_arch'.",
+        "12": "Coordinated upper-arch anterior movement consistent with 'align_arch'.",
+        "13": "Coordinated upper-arch anterior movement consistent with 'align_arch'.",
+        "21": "Coordinated upper-arch anterior movement consistent with 'align_arch'.",
+        "22": "Coordinated upper-arch anterior movement consistent with 'align_arch'.",
+        "23": "Coordinated upper-arch anterior movement consistent with 'align_arch'.",
+        "31": "Coordinated lower-arch anterior movement consistent with 'align_arch', with limited proclination.",
+        "32": "Coordinated lower-arch anterior movement consistent with 'align_arch', utilizing IPR on neighboring teeth.",
+        "33": "Coordinated lower-arch anterior movement consistent with 'align_arch', utilizing IPR on neighboring teeth.",
+        "41": "Coordinated lower-arch anterior movement consistent with 'align_arch', with limited proclination.",
+        "42": "Coordinated lower-arch anterior movement consistent with 'align_arch', utilizing IPR on neighboring teeth.",
+        "43": "Coordinated lower-arch anterior movement consistent with 'align_arch', utilizing IPR on neighboring teeth."
+      },
+      "confidence": 0.8
+    }
+  }
+]

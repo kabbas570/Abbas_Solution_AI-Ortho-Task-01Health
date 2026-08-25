@@ -1,0 +1,58 @@
+[
+  {
+    "id": "i0",
+    "plan": {
+      "goals": [
+        "align_upper_arch",
+        "align_lower_arch"
+      ],
+      "move_teeth": [
+        11,
+        12,
+        13,
+        21,
+        22,
+        23,
+        31,
+        32,
+        33,
+        41,
+        42,
+        43
+      ],
+      "fixed_teeth": [
+        14,
+        15,
+        16,
+        17,
+        24,
+        25,
+        26,
+        27,
+        34,
+        35,
+        36,
+        37,
+        44,
+        45,
+        46,
+        47
+      ],
+      "movement_rationale": {
+        "11": "Upper arch alignment with proclination.",
+        "12": "Upper arch alignment with proclination.",
+        "13": "Upper arch alignment with proclination.",
+        "21": "Upper arch alignment with proclination.",
+        "22": "Upper arch alignment with proclination.",
+        "23": "Upper arch alignment with proclination.",
+        "31": "Lower arch anterior alignment with IPR.",
+        "32": "Lower arch anterior alignment with IPR.",
+        "33": "Lower arch anterior alignment with IPR.",
+        "41": "Lower arch anterior alignment with IPR.",
+        "42": "Lower arch anterior alignment with IPR.",
+        "43": "Lower arch anterior alignment with IPR."
+      },
+      "confidence": 0.9
+    }
+  }
+]

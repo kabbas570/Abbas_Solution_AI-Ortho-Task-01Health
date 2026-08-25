@@ -1,0 +1,65 @@
+[
+  {
+    "id": "i0",
+    "plan": {
+      "goals": [
+        "align_anterior_and_premolars"
+      ],
+      "move_teeth": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        21,
+        22,
+        23,
+        24,
+        25,
+        31,
+        32,
+        33,
+        34,
+        35,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "fixed_teeth": [
+        16,
+        17,
+        26,
+        27,
+        36,
+        37,
+        46,
+        47
+      ],
+      "movement_rationale": {
+        "11": "Coordinated upper-arch anterior movement consistent with 'align_anterior_and_premolars'.",
+        "12": "Coordinated upper-arch anterior movement consistent with 'align_anterior_and_premolars'.",
+        "13": "Coordinated upper-arch anterior movement consistent with 'align_anterior_and_premolars'.",
+        "14": "Coordinated upper-arch posterior movement consistent with 'align_anterior_and_premolars'.",
+        "15": "Coordinated upper-arch posterior movement consistent with 'align_anterior_and_premolars'.",
+        "21": "Coordinated upper-arch anterior movement consistent with 'align_anterior_and_premolars'.",
+        "22": "Coordinated upper-arch anterior movement consistent with 'align_anterior_and_premolars'.",
+        "23": "Coordinated upper-arch anterior movement consistent with 'align_anterior_and_premolars'.",
+        "24": "Coordinated upper-arch posterior movement consistent with 'align_anterior_and_premolars'.",
+        "25": "Coordinated upper-arch posterior movement consistent with 'align_anterior_and_premolars'.",
+        "31": "Coordinated lower-arch anterior movement consistent with 'align_anterior_and_premolars'.",
+        "32": "Coordinated lower-arch anterior movement consistent with 'align_anterior_and_premolars'.",
+        "33": "Coordinated lower-arch anterior movement consistent with 'align_anterior_and_premolars'.",
+        "34": "Coordinated lower-arch posterior movement consistent with 'align_anterior_and_premolars'.",
+        "35": "Coordinated lower-arch posterior movement consistent with 'align_anterior_and_premolars'.",
+        "41": "Coordinated lower-arch anterior movement consistent with 'align_anterior_and_premolars'.",
+        "42": "Coordinated lower-arch anterior movement consistent with 'align_anterior_and_premolars'.",
+        "43": "Coordinated lower-arch anterior movement consistent with 'align_anterior_and_premolars'.",
+        "44": "Coordinated lower-arch posterior movement consistent with 'align_anterior_and_premolars'.",
+        "45": "Coordinated lower-arch posterior movement consistent with 'align_anterior_and_premolars'."
+      },
+      "confidence": 0.8
+    }
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "i0",
+    "plan": {
+      "goals": [
+        "correct_tip",
+        "add_bite_ramps",
+        "coordinate_lower_arch"
+      ],
+      "move_teeth": [
+        13,
+        23,
+        33,
+        43,
+        44,
+        45
+      ],
+      "fixed_teeth": [
+        11,
+        12,
+        14,
+        15,
+        16,
+        17,
+        21,
+        22,
+        24,
+        25,
+        26,
+        27,
+        31,
+        32,
+        34,
+        35,
+        36,
+        37,
+        41,
+        42,
+        46,
+        47
+      ],
+      "movement_rationale": {
+        "13": "Correct tip of UR3 and bring roots mesial.",
+        "23": "Correct tip of UL3 and bring roots mesial.",
+        "33": "Mesial out movement of LR3.",
+        "43": "Distal movement of LR3.",
+        "44": "Buccal crown torque of LR4.",
+        "45": "Buccal crown torque of LR5."
+      },
+      "confidence": 0.9
+    }
+  }
+]

@@ -1,0 +1,32 @@
+Goals:
+
+procline upper and lower incisors to align 
+push open space for UR2 to improve upper midline
+max IPR 0.3mm per contact 
+
+Dentist's Requests (e.g. delaying attachments): nil 
+
+Canine and Molar Classification - Where would you like to end up? : maintain / show resulting 
+
+AP Plane Correction: procline upper and lower incisors
+- finish with upper incisors at 120 degrees and lowers at 90 degrees 
+
+Final Overjet Goals (mm): 2-3mm 
+
+Vertical Plane Correction: nil 
+
+Final Overbite Goals (mm): show resulting 
+
+Transverse Plane Correction: nil 
+
+How to Resolve Crowding (IPR, staging of movement etc.): max IPR 0.3mm per contact 
+
+Specific Tricky Teeth Instructions: nil 
+
+Any Specific Aesthetic Goals:
+ nil 
+Avoid the Following: 
+ nil 
+
+Additional Notes & Considerations e.g. attachment preferences, auxiliary preferences
+nil

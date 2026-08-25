@@ -1,0 +1,67 @@
+[
+  {
+    "id": "i0",
+    "plan": {
+      "goals": [
+        "align_arch",
+        "flatten_lower_curve_of_spee",
+        "procline_upper_incisors"
+      ],
+      "move_teeth": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        21,
+        22,
+        23,
+        24,
+        25,
+        31,
+        32,
+        33,
+        34,
+        35,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "fixed_teeth": [
+        16,
+        17,
+        26,
+        27,
+        36,
+        37,
+        46,
+        47
+      ],
+      "movement_rationale": {
+        "11": "Procline upper incisors.",
+        "12": "Procline upper incisors.",
+        "13": "Procline upper incisors.",
+        "14": "Coordinated upper-arch posterior movement consistent with 'align_arch'.",
+        "15": "Coordinated upper-arch posterior movement consistent with 'align_arch'.",
+        "21": "Procline upper incisors.",
+        "22": "Procline upper incisors.",
+        "23": "Procline upper incisors.",
+        "24": "Coordinated upper-arch posterior movement consistent with 'align_arch'.",
+        "25": "Coordinated upper-arch posterior movement consistent with 'align_arch'.",
+        "31": "Flatten lower curve of spee.",
+        "32": "Flatten lower curve of spee.",
+        "33": "Flatten lower curve of spee.",
+        "34": "Coordinated lower-arch posterior movement consistent with 'align_arch'.",
+        "35": "Coordinated lower-arch posterior movement consistent with 'align_arch'.",
+        "41": "Flatten lower curve of spee.",
+        "42": "Flatten lower curve of spee.",
+        "43": "Flatten lower curve of spee.",
+        "44": "Coordinated lower-arch posterior movement consistent with 'align_arch'.",
+        "45": "Coordinated lower-arch posterior movement consistent with 'align_arch'."
+      },
+      "confidence": 0.8
+    }
+  }
+]
