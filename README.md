@@ -1,8 +1,5 @@
-## Two-Stage Multimodal Pipeline for Orthodontic Treatment Planning
+# Two-Stage Multimodal Pipeline for Orthodontic Treatment Planning
 
-<p align="center">
-  prod_0245_comparison.gif
-</p>
 This folder contains the final two-stage pipeline used to predict per-tooth rigid movements from dentist instructions and 3D tooth geometry.
 
 The pipeline combines:
@@ -11,6 +8,10 @@ The pipeline combines:
 2. Relational multimodal movement prediction
 
 The LLM is used to structure the clinical instruction. The neural model uses that structured signal together with tooth point clouds, tooth geometry, arch relationships, pairwise tooth relationships, and case metadata to predict final translations and rotations.
+
+<p align="center">
+  <img src="prod_0245_comparison.gif" alt="Original, gold transform, and model prediction comparison for prod_0245" width="900" />
+</p>
 
 ## 1. Folder Contents
 
