@@ -1,0 +1,386 @@
+[
+  {
+    "epoch": 1,
+    "learning_rate": 0.0002,
+    "train": {
+      "loss": 0.9316020369529724,
+      "move_bce": 0.5011794656515122,
+      "translation_smooth_l1": 0.5835678339004516,
+      "rotation_geodesic_scaled": 0.04148434745147824,
+      "immobility": 0.0,
+      "protected": 1.0514701157808304
+    },
+    "validation": {
+      "loss": 0.42697069644927976,
+      "move_bce": 0.27639697790145873,
+      "translation_smooth_l1": 0.2951729238033295,
+      "rotation_geodesic_scaled": 0.042076091095805165,
+      "immobility": 0.0,
+      "protected": 0.25037857294082644,
+      "translation_mae": 0.7973444342613221,
+      "moving_translation_mae": 0.7973444342613221,
+      "rotation_mae_deg": 7.573696136474609,
+      "move_accuracy": 1.0
+    }
+  },
+  {
+    "epoch": 2,
+    "learning_rate": 0.0002,
+    "train": {
+      "loss": 0.487208853662014,
+      "move_bce": 0.18999579101800917,
+      "translation_smooth_l1": 0.34497501254081725,
+      "rotation_geodesic_scaled": 0.0413360926322639,
+      "immobility": 0.0,
+      "protected": 0.4116703227162361
+    },
+    "validation": {
+      "loss": 0.33430546522140503,
+      "move_bce": 0.08491570353507996,
+      "translation_smooth_l1": 0.2710023820400238,
+      "rotation_geodesic_scaled": 0.04217998869717121,
+      "immobility": 0.0,
+      "protected": 0.14710078239440919,
+      "translation_mae": 0.7266014456748963,
+      "moving_translation_mae": 0.7266014456748963,
+      "rotation_mae_deg": 7.592397594451905,
+      "move_accuracy": 1.0
+    }
+  },
+  {
+    "epoch": 3,
+    "learning_rate": 0.0002,
+    "train": {
+      "loss": 0.3969646506011486,
+      "move_bce": 0.06001695990562439,
+      "translation_smooth_l1": 0.30655243098735807,
+      "rotation_geodesic_scaled": 0.041339004039764406,
+      "immobility": 0.0,
+      "protected": 0.315031398832798
+    },
+    "validation": {
+      "loss": 0.3004817575216293,
+      "move_bce": 0.02682429403066635,
+      "translation_smooth_l1": 0.2535404026508331,
+      "rotation_geodesic_scaled": 0.042043088003993034,
+      "immobility": 0.0,
+      "protected": 0.13811182081699372,
+      "translation_mae": 0.7009984314441681,
+      "moving_translation_mae": 0.7009984314441681,
+      "rotation_mae_deg": 7.567755651473999,
+      "move_accuracy": 1.0
+    }
+  },
+  {
+    "epoch": 4,
+    "learning_rate": 0.0002,
+    "train": {
+      "loss": 0.3672651223838329,
+      "move_bce": 0.02231016424484551,
+      "translation_smooth_l1": 0.2978326704353094,
+      "rotation_geodesic_scaled": 0.04127172250300646,
+      "immobility": 0.0,
+      "protected": 0.25736696273088455
+    },
+    "validation": {
+      "loss": 0.2904761373996735,
+      "move_bce": 0.012528478167951107,
+      "translation_smooth_l1": 0.251245054602623,
+      "rotation_geodesic_scaled": 0.04194456785917282,
+      "immobility": 0.0,
+      "protected": 0.11757799386978149,
+      "translation_mae": 0.6857167840003967,
+      "moving_translation_mae": 0.6857167840003967,
+      "rotation_mae_deg": 7.550021648406982,
+      "move_accuracy": 1.0
+    }
+  },
+  {
+    "epoch": 5,
+    "learning_rate": 0.0002,
+    "train": {
+      "loss": 0.3512729898095131,
+      "move_bce": 0.012611875589936972,
+      "translation_smooth_l1": 0.288236153870821,
+      "rotation_geodesic_scaled": 0.04122133189812303,
+      "immobility": 0.0,
+      "protected": 0.23758734613656998
+    },
+    "validation": {
+      "loss": 0.276685494184494,
+      "move_bce": 0.007902381010353565,
+      "translation_smooth_l1": 0.25042319744825364,
+      "rotation_geodesic_scaled": 0.04194086715579033,
+      "immobility": 0.0,
+      "protected": 0.05852222740650177,
+      "translation_mae": 0.6698211312294007,
+      "moving_translation_mae": 0.6698211312294007,
+      "rotation_mae_deg": 7.549355697631836,
+      "move_accuracy": 1.0
+    }
+  },
+  {
+    "epoch": 6,
+    "learning_rate": 0.0002,
+    "train": {
+      "loss": 0.321881227940321,
+      "move_bce": 0.007616399344988168,
+      "translation_smooth_l1": 0.2737437006086111,
+      "rotation_geodesic_scaled": 0.04122050069272518,
+      "immobility": 0.0,
+      "protected": 0.16933635622262955
+    },
+    "validation": {
+      "loss": 0.2926515907049179,
+      "move_bce": 0.004381661117076874,
+      "translation_smooth_l1": 0.25613720118999483,
+      "rotation_geodesic_scaled": 0.0419353898614645,
+      "immobility": 0.0,
+      "protected": 0.11419176757335663,
+      "translation_mae": 0.7008161664009094,
+      "moving_translation_mae": 0.7008161664009094,
+      "rotation_mae_deg": 7.548369693756103,
+      "move_accuracy": 1.0
+    }
+  },
+  {
+    "epoch": 7,
+    "learning_rate": 0.0002,
+    "train": {
+      "loss": 0.3251868821680546,
+      "move_bce": 0.004285186319611967,
+      "translation_smooth_l1": 0.2758120946586132,
+      "rotation_geodesic_scaled": 0.04121127044782043,
+      "immobility": 0.0,
+      "protected": 0.17970051988959312
+    },
+    "validation": {
+      "loss": 0.32148127555847167,
+      "move_bce": 0.002747786371037364,
+      "translation_smooth_l1": 0.2705496817827225,
+      "rotation_geodesic_scaled": 0.04193677119910717,
+      "immobility": 0.0,
+      "protected": 0.18831808865070343,
+      "translation_mae": 0.7437576234340668,
+      "moving_translation_mae": 0.7437576234340668,
+      "rotation_mae_deg": 7.548618602752685,
+      "move_accuracy": 1.0
+    }
+  },
+  {
+    "epoch": 8,
+    "learning_rate": 0.0002,
+    "train": {
+      "loss": 0.3212163522839546,
+      "move_bce": 0.0031034068088047206,
+      "translation_smooth_l1": 0.27531326562166214,
+      "rotation_geodesic_scaled": 0.04120661243796349,
+      "immobility": 0.0,
+      "protected": 0.1638262677937746
+    },
+    "validation": {
+      "loss": 0.2906475603580475,
+      "move_bce": 0.0021424445323646067,
+      "translation_smooth_l1": 0.25878812968730924,
+      "rotation_geodesic_scaled": 0.04194159619510174,
+      "immobility": 0.0,
+      "protected": 0.09370667487382889,
+      "translation_mae": 0.6926401019096374,
+      "moving_translation_mae": 0.6926401019096374,
+      "rotation_mae_deg": 7.549487066268921,
+      "move_accuracy": 1.0
+    }
+  },
+  {
+    "epoch": 9,
+    "learning_rate": 0.0002,
+    "train": {
+      "loss": 0.3206624798476696,
+      "move_bce": 0.0025231751031242313,
+      "translation_smooth_l1": 0.2749570969492197,
+      "rotation_geodesic_scaled": 0.041215168032795194,
+      "immobility": 0.0,
+      "protected": 0.16355018615722655
+    },
+    "validation": {
+      "loss": 0.2847005188465118,
+      "move_bce": 0.0017912199720740319,
+      "translation_smooth_l1": 0.2544596016407013,
+      "rotation_geodesic_scaled": 0.04194013774394989,
+      "immobility": 0.0,
+      "protected": 0.08605533689260483,
+      "translation_mae": 0.685715401172638,
+      "moving_translation_mae": 0.685715401172638,
+      "rotation_mae_deg": 7.549224424362182,
+      "move_accuracy": 1.0
+    }
+  },
+  {
+    "epoch": 10,
+    "learning_rate": 0.0002,
+    "train": {
+      "loss": 0.30850037969648836,
+      "move_bce": 0.002125949604669586,
+      "translation_smooth_l1": 0.2690499823540449,
+      "rotation_geodesic_scaled": 0.04119826629757881,
+      "immobility": 0.0,
+      "protected": 0.13279717303812505
+    },
+    "validation": {
+      "loss": 0.27700619399547577,
+      "move_bce": 0.0015317470766603946,
+      "translation_smooth_l1": 0.24865875542163848,
+      "rotation_geodesic_scaled": 0.04193137250840664,
+      "immobility": 0.0,
+      "protected": 0.07692540735006333,
+      "translation_mae": 0.6726430356502533,
+      "moving_translation_mae": 0.6726430356502533,
+      "rotation_mae_deg": 7.547646379470825,
+      "move_accuracy": 1.0
+    }
+  },
+  {
+    "epoch": 11,
+    "learning_rate": 0.0002,
+    "train": {
+      "loss": 0.3077785335481167,
+      "move_bce": 0.0017412532411981373,
+      "translation_smooth_l1": 0.2689266074448824,
+      "rotation_geodesic_scaled": 0.041198559943586587,
+      "immobility": 0.0,
+      "protected": 0.13028520457446574
+    },
+    "validation": {
+      "loss": 0.2760093480348587,
+      "move_bce": 0.0012142928317189217,
+      "translation_smooth_l1": 0.25269096791744233,
+      "rotation_geodesic_scaled": 0.041933703050017354,
+      "immobility": 0.0,
+      "protected": 0.052173446863889694,
+      "translation_mae": 0.6661293387413025,
+      "moving_translation_mae": 0.6661293387413025,
+      "rotation_mae_deg": 7.548066234588623,
+      "move_accuracy": 1.0
+    }
+  },
+  {
+    "epoch": 12,
+    "learning_rate": 0.0002,
+    "train": {
+      "loss": 0.3046120561659336,
+      "move_bce": 0.0013955655449535698,
+      "translation_smooth_l1": 0.2659720655530691,
+      "rotation_geodesic_scaled": 0.041233278531581166,
+      "immobility": 0.0,
+      "protected": 0.12960556671023368
+    },
+    "validation": {
+      "loss": 0.3069146484136581,
+      "move_bce": 0.0010096560698002576,
+      "translation_smooth_l1": 0.2665828883647919,
+      "rotation_geodesic_scaled": 0.04195510186254978,
+      "immobility": 0.0,
+      "protected": 0.13746408522129058,
+      "translation_mae": 0.718428111076355,
+      "moving_translation_mae": 0.718428111076355,
+      "rotation_mae_deg": 7.5519181251525875,
+      "move_accuracy": 1.0
+    }
+  },
+  {
+    "epoch": 13,
+    "learning_rate": 0.0002,
+    "train": {
+      "loss": 0.30559828504920006,
+      "move_bce": 0.0012144775071647018,
+      "translation_smooth_l1": 0.2677727695554495,
+      "rotation_geodesic_scaled": 0.041211485583335164,
+      "immobility": 0.0,
+      "protected": 0.1257922261953354
+    },
+    "validation": {
+      "loss": 0.28005864918231965,
+      "move_bce": 0.000827844871673733,
+      "translation_smooth_l1": 0.25295080095529554,
+      "rotation_geodesic_scaled": 0.0419424019753933,
+      "immobility": 0.0,
+      "protected": 0.07159080654382706,
+      "translation_mae": 0.6743298828601837,
+      "moving_translation_mae": 0.6743298828601837,
+      "rotation_mae_deg": 7.549632120132446,
+      "move_accuracy": 1.0
+    }
+  },
+  {
+    "epoch": 14,
+    "learning_rate": 0.0002,
+    "train": {
+      "loss": 0.30078005194664004,
+      "move_bce": 0.0010090233699884266,
+      "translation_smooth_l1": 0.2653836697340012,
+      "rotation_geodesic_scaled": 0.04120671767741442,
+      "immobility": 0.0,
+      "protected": 0.11391054689884186
+    },
+    "validation": {
+      "loss": 0.2919044613838196,
+      "move_bce": 0.0007050715037621557,
+      "translation_smooth_l1": 0.2544120103120804,
+      "rotation_geodesic_scaled": 0.041943006217479706,
+      "immobility": 0.0,
+      "protected": 0.12366640567779541,
+      "translation_mae": 0.6979503631591797,
+      "moving_translation_mae": 0.6979503631591797,
+      "rotation_mae_deg": 7.549740791320801,
+      "move_accuracy": 1.0
+    }
+  },
+  {
+    "epoch": 15,
+    "learning_rate": 0.0002,
+    "train": {
+      "loss": 0.3099615413695574,
+      "move_bce": 0.000866201549069956,
+      "translation_smooth_l1": 0.26847586594522,
+      "rotation_geodesic_scaled": 0.041204757802188394,
+      "immobility": 0.0,
+      "protected": 0.1445384755730629
+    },
+    "validation": {
+      "loss": 0.2819613963365555,
+      "move_bce": 0.0006250198115594685,
+      "translation_smooth_l1": 0.25461702048778534,
+      "rotation_geodesic_scaled": 0.04193369783461094,
+      "immobility": 0.0,
+      "protected": 0.07304005324840546,
+      "translation_mae": 0.6823712646961212,
+      "moving_translation_mae": 0.6823712646961212,
+      "rotation_mae_deg": 7.548065519332885,
+      "move_accuracy": 1.0
+    }
+  },
+  {
+    "epoch": 16,
+    "learning_rate": 0.0002,
+    "train": {
+      "loss": 0.3002927727997303,
+      "move_bce": 0.0007816083292709663,
+      "translation_smooth_l1": 0.268719445168972,
+      "rotation_geodesic_scaled": 0.041213958989828825,
+      "immobility": 0.0,
+      "protected": 0.09506868869066239
+    },
+    "validation": {
+      "loss": 0.2899681717157364,
+      "move_bce": 0.0005594599759206175,
+      "translation_smooth_l1": 0.2599939525127411,
+      "rotation_geodesic_scaled": 0.041942603141069415,
+      "immobility": 0.0,
+      "protected": 0.08625788092613221,
+      "translation_mae": 0.6947713375091553,
+      "moving_translation_mae": 0.6947713375091553,
+      "rotation_mae_deg": 7.549668455123902,
+      "move_accuracy": 1.0
+    }
+  }
+]
