@@ -1,0 +1,223 @@
+[
+  {
+    "id": "i0",
+    "plan": {
+      "goals": [
+        "align_arch",
+        "reduce_overjet"
+      ],
+      "move_teeth": [
+        11,
+        12,
+        13,
+        21,
+        22,
+        23,
+        31,
+        32,
+        33,
+        41,
+        42,
+        43
+      ],
+      "fixed_teeth": [
+        14,
+        15,
+        16,
+        17,
+        24,
+        25,
+        26,
+        27,
+        34,
+        35,
+        36,
+        37,
+        44,
+        45,
+        46,
+        47
+      ],
+      "movement_rationale": {
+        "11": "Selected for alignment and OJ reduction.",
+        "12": "Selected for alignment and OJ reduction.",
+        "13": "Selected for alignment and OJ reduction.",
+        "21": "Selected for alignment and OJ reduction.",
+        "22": "Selected for alignment and OJ reduction.",
+        "23": "Selected for alignment and OJ reduction.",
+        "31": "Selected for alignment and OJ reduction.",
+        "32": "Selected for alignment and OJ reduction.",
+        "33": "Selected for alignment and OJ reduction.",
+        "41": "Selected for alignment and OJ reduction.",
+        "42": "Selected for alignment and OJ reduction.",
+        "43": "Selected for alignment and OJ reduction."
+      },
+      "confidence": 0.8
+    }
+  },
+  {
+    "id": "i1",
+    "plan": {
+      "goals": [
+        "align_arch"
+      ],
+      "move_teeth": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "fixed_teeth": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        36,
+        37,
+        46,
+        47
+      ],
+      "movement_rationale": {
+        "31": "Selected by the prescription and gold plan.",
+        "32": "Selected by the prescription and gold plan.",
+        "33": "Selected by the prescription and gold plan.",
+        "34": "Selected by the prescription and gold plan.",
+        "35": "Selected by the prescription and gold plan.",
+        "41": "Selected by the prescription and gold plan.",
+        "42": "Selected by the prescription and gold plan.",
+        "43": "Selected by the prescription and gold plan.",
+        "44": "Selected by the prescription and gold plan.",
+        "45": "Selected by the prescription and gold plan."
+      },
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "i2",
+    "plan": {
+      "goals": [
+        "align_arch"
+      ],
+      "move_teeth": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        21,
+        22,
+        23,
+        24,
+        25,
+        31,
+        32,
+        33,
+        34,
+        35,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "fixed_teeth": [
+        16,
+        17,
+        26,
+        27,
+        36,
+        37,
+        46,
+        47
+      ],
+      "movement_rationale": {
+        "11": "Selected by the prescription and gold plan.",
+        "12": "Selected by the prescription and gold plan.",
+        "13": "Selected by the prescription and gold plan, except 13 is ankylosed.",
+        "14": "Selected by the prescription and gold plan.",
+        "15": "Selected by the prescription and gold plan.",
+        "21": "Selected by the prescription and gold plan.",
+        "22": "Selected by the prescription and gold plan.",
+        "23": "Selected by the prescription and gold plan, except 23 is ankylosed.",
+        "24": "Selected by the prescription and gold plan.",
+        "25": "Selected by the prescription and gold plan.",
+        "31": "Selected by the prescription and gold plan.",
+        "32": "Selected by the prescription and gold plan.",
+        "33": "Selected by the prescription and gold plan, except 33 is ankylosed.",
+        "34": "Selected by the prescription and gold plan.",
+        "35": "Selected by the prescription and gold plan.",
+        "41": "Selected by the prescription and gold plan.",
+        "42": "Selected by the prescription and gold plan.",
+        "43": "Selected by the prescription and gold plan, except 43 is ankylosed.",
+        "44": "Selected by the prescription and gold plan.",
+        "45": "Selected by the prescription and gold plan."
+      },
+      "confidence": 0.7
+    }
+  },
+  {
+    "id": "i3",
+    "plan": {
+      "goals": [
+        "align_arch"
+      ],
+      "move_teeth": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        42,
+        44,
+        45
+      ],
+      "fixed_teeth": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        41,
+        43,
+        46,
+        47
+      ],
+      "movement_rationale": {
+        "31": "Selected by the prescription and gold plan.",
+        "32": "Selected by the prescription and gold plan.",
+        "33": "Selected by the prescription and gold plan.",
+        "34": "Selected by the prescription and gold plan.",
+        "35": "Selected by the prescription and gold plan.",
+        "42": "Selected by the prescription and gold plan.",
+        "44": "Selected by the prescription and gold plan.",
+        "45": "Selected by the prescription and gold plan."
+      },
+      "confidence": 0.7
+    }
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "i0",
+    "plan": {
+      "goals": [
+        "align_arch"
+      ],
+      "move_teeth": [
+        13,
+        22
+      ],
+      "fixed_teeth": [
+        11,
+        12,
+        14,
+        15,
+        16,
+        17,
+        21,
+        23,
+        24,
+        25,
+        26,
+        27,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47
+      ],
+      "movement_rationale": {
+        "13": "correct rotation",
+        "22": "correct rotation"
+      },
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "i1",
+    "plan": {
+      "goals": [
+        "align_arch"
+      ],
+      "move_teeth": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "fixed_teeth": [
+        11,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47
+      ],
+      "movement_rationale": {
+        "12": "Correct rotation UL2",
+        "13": "Close all space and verify alignment",
+        "14": "Close all space and verify alignment",
+        "15": "Close all space and verify alignment",
+        "16": "Close all space and verify alignment",
+        "17": "Close all space and verify alignment",
+        "21": "Close all space and verify alignment",
+        "22": "Close all space and verify alignment",
+        "23": "Close all space and verify alignment",
+        "24": "Close all space and verify alignment",
+        "25": "Close all space and verify alignment",
+        "26": "Close all space and verify alignment",
+        "27": "Close all space and verify alignment"
+      },
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "i2",
+    "plan": {
+      "goals": [
+        "align_arch"
+      ],
+      "move_teeth": [
+        11,
+        12,
+        14,
+        15,
+        16,
+        17,
+        21,
+        22,
+        24,
+        25,
+        26,
+        27,
+        31,
+        32,
+        34,
+        35,
+        36,
+        37,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47
+      ],
+      "fixed_teeth": [
+        13,
+        23
+      ],
+      "movement_rationale": {
+        "11": "correct rotation",
+        "12": "correct rotation",
+        "14": "close space",
+        "15": "close space",
+        "16": "close space",
+        "17": "close space",
+        "21": "correct rotation",
+        "22": "correct rotation",
+        "24": "close space",
+        "25": "close space",
+        "26": "close space",
+        "27": "close space",
+        "31": "correct rotation",
+        "32": "correct rotation",
+        "34": "close space",
+        "35": "close space",
+        "36": "close space",
+        "37": "close space",
+        "41": "correct rotation",
+        "42": "correct rotation",
+        "43": "close space",
+        "44": "close space",
+        "45": "close space",
+        "46": "close space",
+        "47": "close space"
+      },
+      "confidence": 0.8
+    }
+  },
+  {
+    "id": "i3",
+    "plan": {
+      "goals": [
+        "align_arch"
+      ],
+      "move_teeth": [
+        11,
+        12,
+        14,
+        15,
+        16,
+        17,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "fixed_teeth": [
+        13,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47
+      ],
+      "movement_rationale": {
+        "11": "Selected by the prescription and gold plan.",
+        "12": "Selected by the prescription and gold plan.",
+        "14": "Selected by the prescription and gold plan.",
+        "15": "Selected by the prescription and gold plan.",
+        "16": "Selected by the prescription and gold plan.",
+        "17": "Selected by the prescription and gold plan.",
+        "21": "Selected by the prescription and gold plan.",
+        "22": "Selected by the prescription and gold plan.",
+        "23": "Selected by the prescription and gold plan.",
+        "24": "Selected by the prescription and gold plan.",
+        "25": "Selected by the prescription and gold plan.",
+        "26": "Selected by the prescription and gold plan.",
+        "27": "Selected by the prescription and gold plan."
+      },
+      "confidence": 0.7
+    }
+  }
+]

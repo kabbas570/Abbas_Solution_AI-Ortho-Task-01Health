@@ -1,0 +1,226 @@
+[
+  {
+    "id": "i0",
+    "plan": {
+      "goals": [
+        "align_lower_canines",
+        "de_rotate_lower_canines",
+        "procline_upper"
+      ],
+      "move_teeth": [
+        11,
+        12,
+        13,
+        21,
+        22,
+        23,
+        31,
+        32,
+        33,
+        41,
+        42,
+        43
+      ],
+      "fixed_teeth": [
+        14,
+        15,
+        16,
+        17,
+        24,
+        25,
+        26,
+        27,
+        34,
+        35,
+        36,
+        37,
+        44,
+        45,
+        46,
+        47
+      ],
+      "movement_rationale": {
+        "11": "Procline upper to prevent occlusal interference",
+        "12": "Procline upper to prevent occlusal interference",
+        "13": "Procline upper to prevent occlusal interference",
+        "21": "Align and de-rotate lower canines",
+        "22": "Align and de-rotate lower canines",
+        "23": "Align and de-rotate lower canines",
+        "31": "Ensure space mesial and distal to L3s",
+        "32": "Ensure space mesial and distal to L3s",
+        "33": "Ensure space mesial and distal to L3s",
+        "41": "Align and de-rotate lower canines",
+        "42": "Align and de-rotate lower canines",
+        "43": "Align and de-rotate lower canines"
+      },
+      "confidence": 0.8
+    }
+  },
+  {
+    "id": "i1",
+    "plan": {
+      "goals": [
+        "align_upper_arch",
+        "procline_upper_incisors"
+      ],
+      "move_teeth": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "fixed_teeth": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47
+      ],
+      "movement_rationale": {
+        "11": "Procline/expand upper to prevent occlusal interference",
+        "12": "Procline/expand upper to prevent occlusal interference",
+        "13": "Procline/expand upper to prevent occlusal interference",
+        "14": "Procline/expand upper to prevent occlusal interference",
+        "15": "Procline/expand upper to prevent occlusal interference",
+        "16": "Procline/expand upper to prevent occlusal interference",
+        "17": "Procline/expand upper to prevent occlusal interference",
+        "21": "Procline/expand upper to prevent occlusal interference",
+        "22": "Procline/expand upper to prevent occlusal interference",
+        "23": "Procline/expand upper to prevent occlusal interference",
+        "24": "Procline/expand upper to prevent occlusal interference",
+        "25": "Procline/expand upper to prevent occlusal interference",
+        "26": "Procline/expand upper to prevent occlusal interference",
+        "27": "Procline/expand upper to prevent occlusal interference"
+      },
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "i2",
+    "plan": {
+      "goals": [
+        "align_lower_canines",
+        "procline_upper"
+      ],
+      "move_teeth": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        21,
+        22,
+        23,
+        24,
+        25,
+        31,
+        32,
+        41,
+        42,
+        44,
+        45,
+        46,
+        47
+      ],
+      "fixed_teeth": [
+        43
+      ],
+      "movement_rationale": {
+        "11": "Selected by the prescription and gold plan.",
+        "12": "Selected by the prescription and gold plan.",
+        "13": "Selected by the prescription and gold plan.",
+        "14": "Selected by the prescription and gold plan.",
+        "15": "Selected by the prescription and gold plan.",
+        "21": "Selected by the prescription and gold plan.",
+        "22": "Selected by the prescription and gold plan.",
+        "23": "Selected by the prescription and gold plan.",
+        "24": "Selected by the prescription and gold plan.",
+        "25": "Selected by the prescription and gold plan.",
+        "31": "Selected by the prescription and gold plan.",
+        "32": "Selected by the prescription and gold plan.",
+        "41": "Selected by the prescription and gold plan.",
+        "42": "Selected by the prescription and gold plan.",
+        "44": "Selected by the prescription and gold plan.",
+        "45": "Selected by the prescription and gold plan.",
+        "46": "Selected by the prescription and gold plan.",
+        "47": "Selected by the prescription and gold plan."
+      },
+      "confidence": 0.8
+    }
+  },
+  {
+    "id": "i3",
+    "plan": {
+      "goals": [
+        "align_upper_arch",
+        "procline_upper_incisors"
+      ],
+      "move_teeth": [
+        11,
+        12,
+        14,
+        15,
+        16,
+        17,
+        21,
+        22,
+        24,
+        25,
+        26,
+        27
+      ],
+      "fixed_teeth": [
+        13,
+        23,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47
+      ],
+      "movement_rationale": {
+        "11": "Procline/expand upper to prevent occlusal interference",
+        "12": "Procline/expand upper to prevent occlusal interference",
+        "14": "Procline/expand upper to prevent occlusal interference",
+        "15": "Procline/expand upper to prevent occlusal interference",
+        "16": "Procline/expand upper to prevent occlusal interference",
+        "17": "Procline/expand upper to prevent occlusal interference",
+        "21": "Procline/expand upper to prevent occlusal interference",
+        "22": "Procline/expand upper to prevent occlusal interference",
+        "24": "Procline/expand upper to prevent occlusal interference",
+        "25": "Procline/expand upper to prevent occlusal interference",
+        "26": "Procline/expand upper to prevent occlusal interference",
+        "27": "Procline/expand upper to prevent occlusal interference"
+      },
+      "confidence": 0.8
+    }
+  }
+]

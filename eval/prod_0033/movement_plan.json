@@ -1,0 +1,243 @@
+[
+  {
+    "id": "i0",
+    "plan": {
+      "goals": [
+        "align_arch",
+        "preserve_UR1_position"
+      ],
+      "move_teeth": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47
+      ],
+      "fixed_teeth": [
+        11
+      ],
+      "movement_rationale": {
+        "12": "Align into ideal position",
+        "13": "Align into ideal position",
+        "14": "Align into ideal position",
+        "15": "Align into ideal position",
+        "16": "Align into ideal position",
+        "17": "Align into ideal position",
+        "21": "Align into ideal position",
+        "22": "Align into ideal position",
+        "23": "Align into ideal position",
+        "24": "Align into ideal position",
+        "25": "Align into ideal position",
+        "26": "Align into ideal position",
+        "27": "Align into ideal position",
+        "31": "Align into ideal position",
+        "32": "Align into ideal position",
+        "33": "Align into ideal position",
+        "34": "Align into ideal position",
+        "35": "Align into ideal position",
+        "36": "Align into ideal position",
+        "37": "Align into ideal position",
+        "41": "Align into ideal position",
+        "42": "Align into ideal position",
+        "43": "Align into ideal position",
+        "44": "Align into ideal position",
+        "45": "Align into ideal position",
+        "46": "Align into ideal position",
+        "47": "Align into ideal position"
+      },
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "i1",
+    "plan": {
+      "goals": [
+        "align_lower_arch"
+      ],
+      "move_teeth": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47
+      ],
+      "fixed_teeth": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "movement_rationale": {
+        "31": "Selected for alignment of lower arch.",
+        "32": "Selected for alignment of lower arch.",
+        "33": "Selected for alignment of lower arch.",
+        "34": "Selected for alignment of lower arch.",
+        "35": "Selected for alignment of lower arch.",
+        "36": "Selected for alignment of lower arch.",
+        "37": "Selected for alignment of lower arch.",
+        "41": "Selected for alignment of lower arch.",
+        "42": "Selected for alignment of lower arch.",
+        "43": "Selected for alignment of lower arch.",
+        "44": "Selected for alignment of lower arch.",
+        "45": "Selected for alignment of lower arch.",
+        "46": "Selected for alignment of lower arch.",
+        "47": "Selected for alignment of lower arch."
+      },
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "i2",
+    "plan": {
+      "goals": [
+        "align_arch"
+      ],
+      "move_teeth": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        31,
+        32,
+        34,
+        35,
+        36,
+        37,
+        41,
+        42,
+        43,
+        44,
+        46,
+        47
+      ],
+      "fixed_teeth": [
+        33,
+        45
+      ],
+      "movement_rationale": {
+        "11": "Selected by the prescription and gold plan.",
+        "12": "Selected by the prescription and gold plan.",
+        "13": "Selected by the prescription and gold plan.",
+        "14": "Selected by the prescription and gold plan.",
+        "15": "Selected by the prescription and gold plan.",
+        "16": "Selected by the prescription and gold plan.",
+        "17": "Selected by the prescription and gold plan.",
+        "21": "Selected by the prescription and gold plan.",
+        "22": "Selected by the prescription and gold plan.",
+        "23": "Selected by the prescription and gold plan.",
+        "24": "Selected by the prescription and gold plan.",
+        "25": "Selected by the prescription and gold plan.",
+        "26": "Selected by the prescription and gold plan.",
+        "27": "Selected by the prescription and gold plan.",
+        "31": "Selected by the prescription and gold plan.",
+        "32": "Selected by the prescription and gold plan.",
+        "34": "Selected by the prescription and gold plan.",
+        "35": "Selected by the prescription and gold plan.",
+        "36": "Selected by the prescription and gold plan.",
+        "37": "Selected by the prescription and gold plan.",
+        "41": "Selected by the prescription and gold plan.",
+        "42": "Selected by the prescription and gold plan.",
+        "43": "Selected by the prescription and gold plan.",
+        "44": "Selected by the prescription and gold plan.",
+        "46": "Selected by the prescription and gold plan.",
+        "47": "Selected by the prescription and gold plan."
+      },
+      "confidence": 0.8
+    }
+  },
+  {
+    "id": "i3",
+    "plan": {
+      "goals": [
+        "align_lower_arch"
+      ],
+      "move_teeth": [
+        31,
+        32,
+        41,
+        42,
+        44
+      ],
+      "fixed_teeth": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        33,
+        43,
+        45,
+        46,
+        47
+      ],
+      "movement_rationale": {
+        "31": "relieve crowding",
+        "32": "relieve crowding",
+        "41": "relieve crowding",
+        "42": "relieve crowding",
+        "44": "relieve crowding"
+      },
+      "confidence": 0.8
+    }
+  }
+]

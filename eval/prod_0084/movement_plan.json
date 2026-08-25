@@ -1,0 +1,249 @@
+[
+  {
+    "id": "i0",
+    "plan": {
+      "goals": [
+        "align_arch",
+        "reduce_AOB",
+        "improve_symmetry"
+      ],
+      "move_teeth": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47
+      ],
+      "fixed_teeth": [],
+      "movement_rationale": {
+        "11": "retrocline and upright lower incisors",
+        "12": "retrocline and upright lower incisors",
+        "13": "optimal alignment L3-3",
+        "14": "optimal alignment L3-3",
+        "15": "optimal alignment L3-3",
+        "16": "intrude Upper molars/premolars to reduce AOB",
+        "17": "intrude Upper molars/premolars to reduce AOB",
+        "21": "procline UR2 and add labial root torque",
+        "22": "IPR U2-2 and retrocline U1s",
+        "23": "IPR U2-2 and retrocline U1s",
+        "24": "extrude U2-2 and ensure tips are level",
+        "25": "extrude U2-2 and ensure tips are level",
+        "26": "intrude Upper molars/premolars to reduce AOB",
+        "27": "intrude Upper molars/premolars to reduce AOB",
+        "31": "retrocline and upright lower incisors",
+        "32": "retrocline and upright lower incisors",
+        "33": "optimal alignment L3-3",
+        "34": "optimal alignment L3-3",
+        "35": "optimal alignment L3-3",
+        "36": "add stability /intrusion attachments to Lower buccal teeth",
+        "37": "add stability /intrusion attachments to Lower buccal teeth",
+        "41": "retrocline and upright lower incisors",
+        "42": "retrocline and upright lower incisors",
+        "43": "optimal alignment L3-3",
+        "44": "optimal alignment L3-3",
+        "45": "optimal alignment L3-3",
+        "46": "add stability /intrusion attachments to Lower buccal teeth",
+        "47": "add stability /intrusion attachments to Lower buccal teeth"
+      },
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "i1",
+    "plan": {
+      "goals": [
+        "align_arch",
+        "reduce_AOB"
+      ],
+      "move_teeth": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "fixed_teeth": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        36,
+        37,
+        46,
+        47
+      ],
+      "movement_rationale": {
+        "31": "Retrocline and upright lower incisors",
+        "32": "Retrocline and upright lower incisors",
+        "33": "Optimal alignment L3-3",
+        "34": "Optimal alignment L3-3",
+        "35": "Optimal alignment L3-3",
+        "41": "Optimal alignment L3-3",
+        "42": "Optimal alignment L3-3",
+        "43": "Optimal alignment L3-3",
+        "44": "Optimal alignment L3-3",
+        "45": "Optimal alignment L3-3"
+      },
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "i2",
+    "plan": {
+      "goals": [
+        "align_arch"
+      ],
+      "move_teeth": [
+        11,
+        12,
+        14,
+        15,
+        16,
+        17,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        31,
+        32,
+        34,
+        35,
+        36,
+        37,
+        41,
+        42,
+        44,
+        45,
+        46,
+        47
+      ],
+      "fixed_teeth": [
+        13,
+        43
+      ],
+      "movement_rationale": {
+        "11": "Selected by the prescription and gold plan.",
+        "12": "Selected by the prescription and gold plan.",
+        "14": "Selected by the prescription and gold plan.",
+        "15": "Selected by the prescription and gold plan.",
+        "16": "Selected by the prescription and gold plan.",
+        "17": "Selected by the prescription and gold plan.",
+        "21": "Selected by the prescription and gold plan.",
+        "22": "Selected by the prescription and gold plan.",
+        "23": "Selected by the prescription and gold plan.",
+        "24": "Selected by the prescription and gold plan.",
+        "25": "Selected by the prescription and gold plan.",
+        "26": "Selected by the prescription and gold plan.",
+        "27": "Selected by the prescription and gold plan.",
+        "31": "Selected by the prescription and gold plan.",
+        "32": "Selected by the prescription and gold plan.",
+        "34": "Selected by the prescription and gold plan.",
+        "35": "Selected by the prescription and gold plan.",
+        "36": "Selected by the prescription and gold plan.",
+        "37": "Selected by the prescription and gold plan.",
+        "41": "Selected by the prescription and gold plan.",
+        "42": "Selected by the prescription and gold plan.",
+        "44": "Selected by the prescription and gold plan.",
+        "45": "Selected by the prescription and gold plan.",
+        "46": "Selected by the prescription and gold plan.",
+        "47": "Selected by the prescription and gold plan."
+      },
+      "confidence": 0.8
+    }
+  },
+  {
+    "id": "i3",
+    "plan": {
+      "goals": [
+        "align_arch",
+        "reduce_AOB"
+      ],
+      "move_teeth": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "fixed_teeth": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        36,
+        37,
+        46,
+        47
+      ],
+      "movement_rationale": {
+        "31": "Selected by the prescription and gold plan.",
+        "32": "Selected by the prescription and gold plan.",
+        "33": "Selected by the prescription and gold plan.",
+        "34": "Selected by the prescription and gold plan.",
+        "35": "Selected by the prescription and gold plan.",
+        "41": "Selected by the prescription and gold plan.",
+        "42": "Selected by the prescription and gold plan.",
+        "43": "Selected by the prescription and gold plan.",
+        "44": "Selected by the prescription and gold plan.",
+        "45": "Selected by the prescription and gold plan."
+      },
+      "confidence": 0.8
+    }
+  }
+]
