@@ -348,3 +348,35 @@ python starter/example_predict.py --pack . --split eval --checkpoint starter/che
 - The neural model predicts the final movement probability, translation, and rotation.
 - Teeth predicted as fixed are assigned the identity transform.
 - All output plans follow the official `taskplan-1` format through `contract.save_plan()`.
+
+## 12. Writeup (Answers to asked questions)
+
+### Describe your model architecture and why you chose it.
+I built a two-stage instruction-conditioned treatment-planning pipeline.
+
+The first stage is an LLM-based instruction interpreter. It reads the dentist’s free-text prescription and converts it into a structured `movement_plan.json` containing clinical goals, teeth expected to move, teeth expected to remain fixed, tooth-level rationale, and confidence. I chose this because the instruction text is clinically nuanced: phrases like “upper arch only,” “leave the lower arch untouched,” or “do not move 4.5 and 4.6” are difficult to capture reliably with simple keyword rules. The LLM output is validated with a Pydantic schema before it is used, so malformed tooth numbers, duplicate teeth, or inconsistent move/fixed assignments are rejected.
+
+The second stage is a relational multimodal neural network. For each case, the model receives the full set of teeth together, not one tooth in isolation. Each tooth is represented using several inputs: its local point cloud, geometric summary features, FDI identity, jaw identity, instruction features, LLM-derived move/fixed features, arch-position features, spacing/crowding estimates, contralateral-tooth information, and pairwise relationship features to every other tooth.
+
+The model has four main parts:
+
+i. **Point-cloud encoder**  
+   A shared PointNet-style encoder processes each tooth’s local point cloud. It extracts learned shape information from the tooth geometry while remaining lightweight enough for the small dataset.
+
+ii. **Tooth and instruction feature fusion**  
+   Hand-engineered tooth features, parser features, LLM Stage-1 features, FDI embeddings, and jaw embeddings are concatenated and projected into a shared latent representation. This lets the model combine geometry, clinical language, and tooth identity.
+
+iii. **Pair-biased relational attention**  
+   The core architectural choice is a relational self-attention block. Unlike a model that predicts each tooth independently, this layer allows every tooth to attend to every other tooth using pairwise features such as centroid distance, direction, same/opposite arch identity, relative orientation, surface distance, local spacing, and contralateral relationships. I chose this because orthodontic treatment planning is inherently relational: moving one tooth affects its neighbours, opposing teeth, arch shape, spacing, and collision risk.
+
+iv. **Multi-head outputs**  
+   The model predicts three outputs per tooth:
+   - a movement probability (`move_probability`)
+   - a 3D translation vector
+   - a normalized quaternion rotation
+
+This separation is intentional. Many teeth should remain fixed, so asking a single regression head to learn both “no movement” and meaningful movement is inefficient. The movement head first learns whether a tooth should move; the translation and rotation heads then learn the magnitude and direction of movement.
+
+The training loss mirrors the task requirements. It combines weighted move/fixed classification, translation loss, quaternion geodesic rotation loss, an immobility penalty for gold-fixed teeth, and an additional protected-tooth penalty based on parser/LLM protection signals. I chose this because raw endpoint accuracy is not enough in a clinical planning task: moving a tooth that should be fixed is a serious constraint violation.
+
+Overall, I chose this architecture because it balances three needs: understanding clinical language, learning from 3D tooth geometry, and modelling relationships across the whole dentition. The LLM captures explicit instruction intent; the relational neural model learns implicit geometric and arch-level movement patterns.
