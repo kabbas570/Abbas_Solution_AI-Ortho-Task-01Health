@@ -1,4 +1,7 @@
 # Two-Stage Multimodal Pipeline for Orthodontic Treatment Planning
+<p align="center">
+prod_0245_comparison.gif
+</p>
 
 This folder contains the final two-stage pipeline used to predict per-tooth rigid movements from dentist instructions and 3D tooth geometry.
 
