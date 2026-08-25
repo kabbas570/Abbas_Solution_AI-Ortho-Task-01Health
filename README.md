@@ -434,3 +434,56 @@ The final plan is therefore produced by combining:
 - learned movement patterns from gold treatment plans
 
 This is how the prototype ensures that the instruction text genuinely affects which teeth move and which stay fixed, rather than simply predicting an average geometry-driven plan.
+
+Updated todo list
+
+### What further data could be introduced to make a model perform better and why?
+
+- **More labelled treatment plans**  
+  The current training set is very small. More cases would help the model learn reliable movement patterns across different malocclusions, arch forms, crowding levels, and instruction styles.
+
+- **Multi-instruction variants per same geometry**  
+  The eval set has multiple instructions per case, but train mostly has one. Training on the same mouth with different instructions would directly teach text sensitivity and counterfactual behaviour.
+
+- **Explicit clinical labels**  
+  Labels for crowding, spacing, overjet, overbite, crossbite, anchorage, protected teeth, and treatment objective would reduce ambiguity and improve supervision.
+
+- **Higher-resolution or mesh geometry**  
+  More complete tooth/root/surface information would improve contact, collision, and occlusion reasoning.
+
+- **Outcome or approval metadata**  
+  Knowing which plans were accepted, revised, or rejected would help distinguish technically plausible plans from clinically preferred ones.
+
+### Your proposed architecture - the deepest part of the submission: given unlimited time, budget and richer data, what would you build and why? What changes from your prototype, what stays, and what alternatives did you weigh?
+
+With more data and budget, I would build a larger instruction-conditioned 3D relational planner.
+
+I would keep:
+
+- the two-stage structure: text interpretation + movement prediction
+- validated structured instruction output
+- per-tooth rigid transform prediction
+- immobility and collision-aware losses
+- relational tooth-to-tooth reasoning
+
+I would change:
+
+- Train the stage-1 LLM from scratch 
+- replace rule/LLM-only text features with a learned clinical text encoder
+- train on multi-instruction variants of the same geometry
+- use stronger 3D encoders, such as point transformers or mesh/surface encoders
+- model upper/lower occlusal contact explicitly
+- predict both final positions and staged movement sequences
+- include uncertainty estimates for clinician review
+
+The final model would combine:
+
+- clinical text encoder
+- per-tooth 3D geometry encoder
+- cross-tooth and cross-arch relational transformer
+- movement/fixed classifier
+- translation and rotation heads
+- collision/contact/staging constraints
+- confidence and explanation outputs
+
+Why: orthodontic planning is not independent per tooth. It depends on clinical intent, arch coordination, occlusion, spacing, safety constraints, and treatment feasibility.
