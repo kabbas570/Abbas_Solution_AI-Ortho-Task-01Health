@@ -1,0 +1,380 @@
+{
+ "format": "taskplan-1",
+ "case_id": "prod_0020",
+ "instruction_id": "i1",
+ "instruction": "Goals: \nanterior alignment is priortiy \nround out upper arch and coordinate lower arch \nmax IPR 0.3mm per contact\nno attachemt UL5,LL56 \n\nDentist's Requests (e.g. delaying attachments):no attachemt UL5,LL56 \n\nCanine and Molar Classification - Where would you like to end up? :  show resulting \n\nAP Plane Correction: nil \n\nFinal Overjet Goals (mm):show resulting \n\nVertical Plane Correction: nil \n \nFinal Overbite Goals (mm):how resulting \n\nTransverse Plane Correction: expand upper arch / round out arch , coordinate lower arch \n\nHow to Resolve Crowding (IPR, staging of movement etc.): max IPR 0.3mm per contact \n \nSpecific Tricky Teeth Instructions: nil \n\nAny Specific Aesthetic Goals: nil \n\nAvoid the Following: ni,l \n\nAdditional Notes & Considerations e.g. attachment preferences, auxiliary preferences: nil\n\nIMPORTANT ADDENDUM: after discussing costs the patient will only proceed with the lower arch. Leave every upper tooth untouched; the rest of the request stands for the lower arch.",
+ "transforms": {
+  "11": {
+   "t_mm": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "q": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  },
+  "12": {
+   "t_mm": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "q": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  },
+  "13": {
+   "t_mm": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "q": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  },
+  "14": {
+   "t_mm": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "q": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  },
+  "15": {
+   "t_mm": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "q": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  },
+  "16": {
+   "t_mm": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "q": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  },
+  "17": {
+   "t_mm": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "q": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  },
+  "21": {
+   "t_mm": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "q": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  },
+  "22": {
+   "t_mm": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "q": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  },
+  "23": {
+   "t_mm": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "q": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  },
+  "24": {
+   "t_mm": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "q": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  },
+  "25": {
+   "t_mm": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "q": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  },
+  "26": {
+   "t_mm": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "q": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  },
+  "27": {
+   "t_mm": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "q": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  },
+  "31": {
+   "t_mm": [
+    0.12310999631881714,
+    -0.3546999990940094,
+    -0.26844000816345215
+   ],
+   "q": [
+    0.000554,
+    0.000154,
+    1e-05,
+    1.0
+   ]
+  },
+  "32": {
+   "t_mm": [
+    0.10510999709367752,
+    -0.2763800024986267,
+    -0.21717000007629395
+   ],
+   "q": [
+    0.000547,
+    8e-05,
+    -0.000107,
+    1.0
+   ]
+  },
+  "33": {
+   "t_mm": [
+    0.03799999877810478,
+    -0.1720699965953827,
+    -0.17264999449253082
+   ],
+   "q": [
+    0.000472,
+    3.4e-05,
+    -0.000128,
+    1.0
+   ]
+  },
+  "34": {
+   "t_mm": [
+    0.03051000088453293,
+    -0.056540001183748245,
+    -0.09166000038385391
+   ],
+   "q": [
+    0.000287,
+    0.000103,
+    -0.000206,
+    1.0
+   ]
+  },
+  "35": {
+   "t_mm": [
+    0.012889999896287918,
+    -0.029980000108480453,
+    -0.06902000308036804
+   ],
+   "q": [
+    0.000234,
+    8.6e-05,
+    -0.000226,
+    1.0
+   ]
+  },
+  "36": {
+   "t_mm": [
+    -0.005489999894052744,
+    -0.021090000867843628,
+    -0.06052999943494797
+   ],
+   "q": [
+    0.000213,
+    -3e-06,
+    -0.000201,
+    1.0
+   ]
+  },
+  "37": {
+   "t_mm": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "q": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  },
+  "41": {
+   "t_mm": [
+    0.11657000333070755,
+    -0.2774899899959564,
+    -0.22474999725818634
+   ],
+   "q": [
+    0.000411,
+    0.000259,
+    -5e-06,
+    1.0
+   ]
+  },
+  "42": {
+   "t_mm": [
+    0.05722999945282936,
+    -0.18515999615192413,
+    -0.14014999568462372
+   ],
+   "q": [
+    0.00043,
+    0.000362,
+    6e-05,
+    1.0
+   ]
+  },
+  "43": {
+   "t_mm": [
+    0.041770000010728836,
+    -0.08106999844312668,
+    -0.13524000346660614
+   ],
+   "q": [
+    0.000328,
+    0.000308,
+    4.6e-05,
+    1.0
+   ]
+  },
+  "44": {
+   "t_mm": [
+    0.013799999840557575,
+    -0.041850000619888306,
+    -0.08397000283002853
+   ],
+   "q": [
+    0.000337,
+    0.000189,
+    8e-06,
+    1.0
+   ]
+  },
+  "45": {
+   "t_mm": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "q": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  },
+  "46": {
+   "t_mm": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "q": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  },
+  "47": {
+   "t_mm": [
+    0.0361500009894371,
+    0.018219999969005585,
+    -0.04230000078678131
+   ],
+   "q": [
+    0.000266,
+    1e-06,
+    5.1e-05,
+    1.0
+   ]
+  }
+ },
+ "meta": {
+  "model": "rich-multimodal",
+  "checkpoint": "C:\\Users\\ARayabat\\Downloads\\AI-Ortho-Task-01Health-main\\AI-Ortho-Task-01Health-main\\starter\\checkpoints_no_llm\\best.pt",
+  "movement_threshold": 0.5,
+  "llm_stage1_features_enabled": false,
+  "llm_stage1_hard_gate_enabled": false,
+  "llm_stage1_fixed_teeth": null
+ }
+}

@@ -1,0 +1,380 @@
+{
+ "format": "taskplan-1",
+ "case_id": "prod_0112",
+ "instruction_id": "i2",
+ "instruction": "Goals:\nPlease focus on:\nLOWER\n1) Aligning lower anterior and utilize IPR vs. proclination to make space\n2) Do not automatically retrocline to close space from IPR, instead intrude lower anterior using IPR space to help improve deep bite\n3) Keep intrusion to 2-2.5mm and employ deep bite protocol/mechanics (ie. adding reverse curve of spee with some premolar movement)\n4) Do not add anterior bite turbos- U1s have too much OJ and U3s will be moving to close spaces so would like full force from plastic\n\nUPPER\n1) Consolidate space upper anterior focusing on closing U1 diastema first\n2) Once U2-2 spaces closed, attempt space closure for distal to U3s but if occlusal collisions form with L4s then DO NOT CLOSE and will discuss with GDP regarding collision. Close the space distal to U3s via tipping/angulation of 3s into CL 1 position.\n3) Maintain appropriate smile arch upper anterior\n\nDentist's Requests (e.g. delaying attachments):\nNone\n\nCanine and Molar Classification - Where would you like to end up? :\nCL 1- Maintain\n\nAP Plane Correction:\nMaintain\n\nFinal Overjet Goals (mm):\n2mm\n\nVertical Plane Correction:\nSee notes above\n\nFinal Overbite Goals (mm):\n3mm\n\nTransverse Plane Correction:\nMaintain\n\nHow to Resolve Crowding (IPR, staging of movement etc.):\nSee notes above\n\nSpecific Tricky Teeth Instructions:\nSee notes above\n\nAny Specific Aesthetic Goals:\n\nAvoid the Following:\n\nAdditional Notes & Considerations e.g. attachment preferences, auxiliary preferences\n\nPlease note 2.1 and 2.3 carry a bonded retainer/bridge abutment we are not prepared to disturb: absolutely no movement on those teeth, work around them.",
+ "transforms": {
+  "11": {
+   "t_mm": [
+    0.09352000057697296,
+    -0.020160000771284103,
+    -0.20117999613285065
+   ],
+   "q": [
+    0.00016,
+    0.000225,
+    7.7e-05,
+    1.0
+   ]
+  },
+  "12": {
+   "t_mm": [
+    0.06030000001192093,
+    -0.03365999832749367,
+    -0.13784000277519226
+   ],
+   "q": [
+    0.000348,
+    0.000273,
+    8.5e-05,
+    1.0
+   ]
+  },
+  "13": {
+   "t_mm": [
+    0.026480000466108322,
+    -0.012419999577105045,
+    -0.08453000336885452
+   ],
+   "q": [
+    0.000334,
+    0.00021,
+    4.3e-05,
+    1.0
+   ]
+  },
+  "14": {
+   "t_mm": [
+    0.007360000163316727,
+    0.018060000613331795,
+    -0.05925000086426735
+   ],
+   "q": [
+    0.000303,
+    0.00016,
+    2.6e-05,
+    1.0
+   ]
+  },
+  "15": {
+   "t_mm": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "q": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  },
+  "16": {
+   "t_mm": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "q": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  },
+  "17": {
+   "t_mm": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "q": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  },
+  "21": {
+   "t_mm": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "q": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  },
+  "22": {
+   "t_mm": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "q": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  },
+  "23": {
+   "t_mm": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "q": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  },
+  "24": {
+   "t_mm": [
+    0.025049999356269836,
+    0.007720000110566616,
+    -0.06627000123262405
+   ],
+   "q": [
+    0.000194,
+    0.000101,
+    -0.000235,
+    1.0
+   ]
+  },
+  "25": {
+   "t_mm": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "q": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  },
+  "26": {
+   "t_mm": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "q": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  },
+  "27": {
+   "t_mm": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "q": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  },
+  "31": {
+   "t_mm": [
+    0.11729999631643295,
+    -0.3382900059223175,
+    -0.2721000015735626
+   ],
+   "q": [
+    0.000535,
+    0.000172,
+    4e-06,
+    1.0
+   ]
+  },
+  "32": {
+   "t_mm": [
+    0.09064000099897385,
+    -0.2497899979352951,
+    -0.22236000001430511
+   ],
+   "q": [
+    0.000512,
+    5.1e-05,
+    -0.00011,
+    1.0
+   ]
+  },
+  "33": {
+   "t_mm": [
+    0.04575999826192856,
+    -0.1652500033378601,
+    -0.17967000603675842
+   ],
+   "q": [
+    0.000458,
+    4e-05,
+    -0.000125,
+    1.0
+   ]
+  },
+  "34": {
+   "t_mm": [
+    0.040059998631477356,
+    -0.05956000089645386,
+    -0.1098100021481514
+   ],
+   "q": [
+    0.000299,
+    0.000113,
+    -0.000189,
+    1.0
+   ]
+  },
+  "35": {
+   "t_mm": [
+    0.02500000037252903,
+    -0.03101000003516674,
+    -0.08285000175237656
+   ],
+   "q": [
+    0.000239,
+    0.000117,
+    -0.000221,
+    1.0
+   ]
+  },
+  "36": {
+   "t_mm": [
+    0.01152000017464161,
+    -0.021299999207258224,
+    -0.06923999637365341
+   ],
+   "q": [
+    0.000224,
+    5.1e-05,
+    -0.000214,
+    1.0
+   ]
+  },
+  "37": {
+   "t_mm": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "q": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  },
+  "41": {
+   "t_mm": [
+    0.11612000316381454,
+    -0.2629599869251251,
+    -0.26177000999450684
+   ],
+   "q": [
+    0.000404,
+    0.000248,
+    1e-05,
+    1.0
+   ]
+  },
+  "42": {
+   "t_mm": [
+    0.05046999827027321,
+    -0.155799999833107,
+    -0.15706999599933624
+   ],
+   "q": [
+    0.000404,
+    0.000329,
+    5.4e-05,
+    1.0
+   ]
+  },
+  "43": {
+   "t_mm": [
+    0.04407000169157982,
+    -0.063230000436306,
+    -0.1354299932718277
+   ],
+   "q": [
+    0.000317,
+    0.000278,
+    3.7e-05,
+    1.0
+   ]
+  },
+  "44": {
+   "t_mm": [
+    0.01817999966442585,
+    -0.03601999953389168,
+    -0.09583000093698502
+   ],
+   "q": [
+    0.000358,
+    0.000195,
+    -0.0,
+    1.0
+   ]
+  },
+  "45": {
+   "t_mm": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "q": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  },
+  "46": {
+   "t_mm": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "q": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  },
+  "47": {
+   "t_mm": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "q": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  }
+ },
+ "meta": {
+  "model": "rich-multimodal",
+  "checkpoint": "C:\\Users\\ARayabat\\Downloads\\AI-Ortho-Task-01Health-main\\AI-Ortho-Task-01Health-main\\starter\\checkpoints_no_llm\\best.pt",
+  "movement_threshold": 0.5,
+  "llm_stage1_features_enabled": false,
+  "llm_stage1_hard_gate_enabled": false,
+  "llm_stage1_fixed_teeth": null
+ }
+}

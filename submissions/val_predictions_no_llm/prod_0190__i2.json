@@ -1,0 +1,380 @@
+{
+ "format": "taskplan-1",
+ "case_id": "prod_0190",
+ "instruction_id": "i2",
+ "instruction": "Goals:\nMaintain crossbite UR6\nDevelop arches U/L 5-5\nImprove alignment U/L 3-3- use IPR upper and retroclination to improve alignment UR2 as well as improve vertical position vs. adding in true extrusion\nImprove edge to edge, crossbite tendency L4s\nMaintain 1-2mm OB & OJ\n\nDentist's Requests (e.g. delaying attachments):\nNone\n\nCanine and Molar Classification - Where would you like to end up? :\nMaintain\n\nAP Plane Correction:\nMaintain\n\nFinal Overjet Goals (mm):\n1-2mm\n\nVertical Plane Correction:\nMaintain\n\nFinal Overbite Goals (mm):\n1-2mm\n\nTransverse Plane Correction:\nMaintain\n\nHow to Resolve Crowding (IPR, staging of movement etc.):\nStaging of movement, IPR & expansion\n\nSpecific Tricky Teeth Instructions:\nUR2, ensure no interproximal collisions & use inclination to assist extrusion\n\nAny Specific Aesthetic Goals:\nNone\n\nAvoid the Following:\n\nAdditional Notes & Considerations e.g. attachment preferences, auxiliary preferences\n\nPlease note 1.2 and 1.3 carry a bonded retainer/bridge abutment we are not prepared to disturb: absolutely no movement on those teeth, work around them.",
+ "transforms": {
+  "11": {
+   "t_mm": [
+    0.08626999706029892,
+    -0.11055999994277954,
+    -0.22878000140190125
+   ],
+   "q": [
+    0.000305,
+    0.00021,
+    2.2e-05,
+    1.0
+   ]
+  },
+  "12": {
+   "t_mm": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "q": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  },
+  "13": {
+   "t_mm": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "q": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  },
+  "14": {
+   "t_mm": [
+    -0.005880000069737434,
+    0.0016499999910593033,
+    -0.06247999891638756
+   ],
+   "q": [
+    0.000296,
+    0.000206,
+    8.1e-05,
+    1.0
+   ]
+  },
+  "15": {
+   "t_mm": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "q": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  },
+  "16": {
+   "t_mm": [
+    0.027370000258088112,
+    0.038600001484155655,
+    -0.041999999433755875
+   ],
+   "q": [
+    0.000226,
+    7.4e-05,
+    0.000114,
+    1.0
+   ]
+  },
+  "17": {
+   "t_mm": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "q": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  },
+  "21": {
+   "t_mm": [
+    0.09065999835729599,
+    -0.1350799947977066,
+    -0.2037699967622757
+   ],
+   "q": [
+    0.000369,
+    0.000117,
+    -4.6e-05,
+    1.0
+   ]
+  },
+  "22": {
+   "t_mm": [
+    0.06013000011444092,
+    -0.10909000039100647,
+    -0.135220006108284
+   ],
+   "q": [
+    0.000388,
+    3.3e-05,
+    -0.000148,
+    1.0
+   ]
+  },
+  "23": {
+   "t_mm": [
+    0.03426999971270561,
+    -0.037689998745918274,
+    -0.08545999974012375
+   ],
+   "q": [
+    0.000305,
+    8.1e-05,
+    -0.000186,
+    1.0
+   ]
+  },
+  "24": {
+   "t_mm": [
+    0.036720000207424164,
+    0.00750999990850687,
+    -0.03945000097155571
+   ],
+   "q": [
+    0.000191,
+    0.000132,
+    -0.000246,
+    1.0
+   ]
+  },
+  "25": {
+   "t_mm": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "q": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  },
+  "26": {
+   "t_mm": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "q": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  },
+  "27": {
+   "t_mm": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "q": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  },
+  "31": {
+   "t_mm": [
+    0.09854999929666519,
+    -0.3285500109195709,
+    -0.24086999893188477
+   ],
+   "q": [
+    0.000544,
+    0.000199,
+    -2.9e-05,
+    1.0
+   ]
+  },
+  "32": {
+   "t_mm": [
+    0.07540000230073929,
+    -0.2653599977493286,
+    -0.21610000729560852
+   ],
+   "q": [
+    0.000553,
+    0.000114,
+    -0.000106,
+    1.0
+   ]
+  },
+  "33": {
+   "t_mm": [
+    0.04489000141620636,
+    -0.15645000338554382,
+    -0.17077000439167023
+   ],
+   "q": [
+    0.000454,
+    9.1e-05,
+    -0.000133,
+    1.0
+   ]
+  },
+  "34": {
+   "t_mm": [
+    0.045090001076459885,
+    -0.03017999976873398,
+    -0.06995999813079834
+   ],
+   "q": [
+    0.000242,
+    0.000154,
+    -0.000226,
+    1.0
+   ]
+  },
+  "35": {
+   "t_mm": [
+    0.020719999447464943,
+    -0.038419999182224274,
+    -0.059780001640319824
+   ],
+   "q": [
+    0.000245,
+    0.000152,
+    -0.000211,
+    1.0
+   ]
+  },
+  "36": {
+   "t_mm": [
+    -0.0006099999882280827,
+    -0.026329999789595604,
+    -0.049389999359846115
+   ],
+   "q": [
+    0.000216,
+    4.4e-05,
+    -0.000194,
+    1.0
+   ]
+  },
+  "37": {
+   "t_mm": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "q": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  },
+  "41": {
+   "t_mm": [
+    0.10204999893903732,
+    -0.2916199862957001,
+    -0.23976999521255493
+   ],
+   "q": [
+    0.000416,
+    0.000221,
+    -3.1e-05,
+    1.0
+   ]
+  },
+  "42": {
+   "t_mm": [
+    0.044610001146793365,
+    -0.1695300042629242,
+    -0.15625
+   ],
+   "q": [
+    0.00042,
+    0.000369,
+    5.7e-05,
+    1.0
+   ]
+  },
+  "43": {
+   "t_mm": [
+    0.04131000116467476,
+    -0.05550000071525574,
+    -0.130390003323555
+   ],
+   "q": [
+    0.000303,
+    0.000326,
+    5.2e-05,
+    1.0
+   ]
+  },
+  "44": {
+   "t_mm": [
+    0.011850000359117985,
+    -0.01785000041127205,
+    -0.07592999935150146
+   ],
+   "q": [
+    0.000312,
+    0.000201,
+    2.7e-05,
+    1.0
+   ]
+  },
+  "45": {
+   "t_mm": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "q": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  },
+  "46": {
+   "t_mm": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "q": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  },
+  "47": {
+   "t_mm": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "q": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  }
+ },
+ "meta": {
+  "model": "rich-multimodal",
+  "checkpoint": "C:\\Users\\ARayabat\\Downloads\\AI-Ortho-Task-01Health-main\\AI-Ortho-Task-01Health-main\\starter\\checkpoints_no_llm\\best.pt",
+  "movement_threshold": 0.5,
+  "llm_stage1_features_enabled": false,
+  "llm_stage1_hard_gate_enabled": false,
+  "llm_stage1_fixed_teeth": null
+ }
+}
