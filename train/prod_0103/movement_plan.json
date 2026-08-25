@@ -1,0 +1,68 @@
+[
+  {
+    "id": "i0",
+    "plan": {
+      "goals": [
+        "align_arch",
+        "expand_upper_arch",
+        "procline_upper_incisors",
+        "procline_lower_incisors"
+      ],
+      "move_teeth": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        23,
+        24,
+        25,
+        26,
+        27,
+        33,
+        34,
+        35,
+        36,
+        37,
+        43,
+        44,
+        45,
+        46,
+        47
+      ],
+      "fixed_teeth": [
+        11,
+        12,
+        21,
+        22,
+        31,
+        32,
+        41,
+        42
+      ],
+      "movement_rationale": {
+        "13": "Upper arch expansion and alignment.",
+        "14": "Upper arch expansion and alignment.",
+        "15": "Upper arch expansion and alignment.",
+        "16": "Upper arch expansion and alignment.",
+        "17": "Upper arch expansion and alignment.",
+        "23": "Upper arch expansion and alignment.",
+        "24": "Upper arch expansion and alignment.",
+        "25": "Upper arch expansion and alignment.",
+        "26": "Upper arch expansion and alignment.",
+        "27": "Upper arch expansion and alignment.",
+        "33": "Lower arch expansion and alignment.",
+        "34": "Lower arch expansion and alignment.",
+        "35": "Lower arch expansion and alignment.",
+        "36": "Lower arch expansion and alignment.",
+        "37": "Lower arch expansion and alignment.",
+        "43": "Lower arch expansion and alignment.",
+        "44": "Lower arch expansion and alignment.",
+        "45": "Lower arch expansion and alignment.",
+        "46": "Lower arch expansion and alignment.",
+        "47": "Lower arch expansion and alignment."
+      },
+      "confidence": 0.8
+    }
+  }
+]

@@ -1,0 +1,18 @@
+Goals: anterior alignment
+
+Upper arch 
+Stage 1 - perform all movements together 
+1. Do not move U8s, compress U7s 1-2mm
+2. Expand and align U654 RHS and LHS
+3. Do not allow movement of the upper labial segment in stage 1
+Stage 2 - movement only after stage 1
+1. Align U2-2 with proclination 
+
+Lower arch 
+Stage 1 - perform all movement together 
+1. Compress L7s 1-2mm
+2. Expand LR456 LL456
+3. Procline and mild IPR LR32 LL123 - TO CREATE SPACE FOR THE LR1 
+Stage 2 - movements only after stage 1
+1. Once space created ALIGN LR1 - buccal translation with increased buccal root torque
+

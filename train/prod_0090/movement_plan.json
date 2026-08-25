@@ -1,0 +1,58 @@
+[
+  {
+    "id": "i0",
+    "plan": {
+      "goals": [
+        "align_upper_anterior",
+        "align_lower_anterior"
+      ],
+      "move_teeth": [
+        11,
+        12,
+        13,
+        21,
+        22,
+        23,
+        31,
+        32,
+        33,
+        41,
+        42,
+        43
+      ],
+      "fixed_teeth": [
+        14,
+        15,
+        16,
+        17,
+        24,
+        25,
+        26,
+        27,
+        34,
+        35,
+        36,
+        37,
+        44,
+        45,
+        46,
+        47
+      ],
+      "movement_rationale": {
+        "11": "Upper anterior alignment.",
+        "12": "Upper anterior alignment.",
+        "13": "Upper anterior alignment.",
+        "21": "Upper anterior alignment.",
+        "22": "Upper anterior alignment.",
+        "23": "Upper anterior alignment.",
+        "31": "Lower anterior alignment with IPR as needed.",
+        "32": "Lower anterior alignment with IPR as needed.",
+        "33": "Lower anterior alignment with IPR as needed.",
+        "41": "Lower anterior alignment with IPR as needed.",
+        "42": "Lower anterior alignment with IPR as needed.",
+        "43": "Lower anterior alignment with IPR as needed."
+      },
+      "confidence": 0.8
+    }
+  }
+]

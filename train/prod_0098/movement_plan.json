@@ -1,0 +1,64 @@
+[
+  {
+    "id": "i0",
+    "plan": {
+      "goals": [
+        "torque_upper_posteriors",
+        "torque_upper_canine",
+        "align_lower_incisors",
+        "level_lower_incisal_edges"
+      ],
+      "move_teeth": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        23,
+        24,
+        25,
+        26,
+        27,
+        31,
+        32,
+        33,
+        41,
+        42,
+        43
+      ],
+      "fixed_teeth": [
+        11,
+        12,
+        21,
+        22,
+        34,
+        35,
+        36,
+        37,
+        44,
+        45,
+        46,
+        47
+      ],
+      "movement_rationale": {
+        "13": "Increased buccal root torque to upper premolars.",
+        "14": "Increased buccal root torque to upper premolars.",
+        "15": "Increased buccal root torque to upper molars.",
+        "16": "Increased buccal root torque to upper molars.",
+        "17": "Increased buccal root torque to upper molars.",
+        "23": "Distal out and mesial in movement of ul1 and buccal movement of ul2.",
+        "24": "Buccal movement to align with ur2.",
+        "25": "Settle into occlusion with increased buccal root torque.",
+        "26": "Settle into occlusion with increased buccal root torque.",
+        "27": "Settle into occlusion with increased buccal root torque.",
+        "31": "Leveling of incisal edge.",
+        "32": "Leveling of incisal edge.",
+        "33": "Leveling of incisal edge.",
+        "41": "Leveling of incisal edge.",
+        "42": "Leveling of incisal edge.",
+        "43": "Leveling of incisal edge."
+      },
+      "confidence": 0.8
+    }
+  }
+]

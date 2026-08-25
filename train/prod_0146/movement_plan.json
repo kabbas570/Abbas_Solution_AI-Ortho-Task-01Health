@@ -1,0 +1,59 @@
+[
+  {
+    "id": "i0",
+    "plan": {
+      "goals": [
+        "align_arch",
+        "level_lower_incisors",
+        "extrude_ul2"
+      ],
+      "move_teeth": [
+        11,
+        12,
+        13,
+        21,
+        22,
+        23,
+        31,
+        32,
+        33,
+        41,
+        42,
+        43
+      ],
+      "fixed_teeth": [
+        14,
+        15,
+        16,
+        17,
+        24,
+        25,
+        26,
+        27,
+        34,
+        35,
+        36,
+        37,
+        44,
+        45,
+        46,
+        47
+      ],
+      "movement_rationale": {
+        "11": "Increased buccal root torque to upper incisors.",
+        "12": "Alignment of 3-3 upper.",
+        "13": "Alignment of 3-3 upper.",
+        "21": "Alignment of 3-3 upper.",
+        "22": "Alignment of 3-3 upper and extrusion to match UR2.",
+        "23": "Alignment of 3-3 upper.",
+        "31": "Leveling of incisal edges and minor IPR.",
+        "32": "Change attachment to vertical with mesial bevel and minor IPR.",
+        "33": "Leveling of incisal edges and minor IPR.",
+        "41": "Uprighting and minor IPR.",
+        "42": "Uprighting and minor IPR.",
+        "43": "Uprighting and minor IPR."
+      },
+      "confidence": 0.9
+    }
+  }
+]

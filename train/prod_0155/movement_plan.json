@@ -1,0 +1,53 @@
+[
+  {
+    "id": "i0",
+    "plan": {
+      "goals": [
+        "align_arch"
+      ],
+      "move_teeth": [
+        12,
+        13,
+        14,
+        15,
+        22,
+        23,
+        24,
+        25
+      ],
+      "fixed_teeth": [
+        11,
+        16,
+        17,
+        21,
+        26,
+        27,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47
+      ],
+      "movement_rationale": {
+        "12": "Upper arch alignment and space closure.",
+        "13": "Upper arch alignment and space closure.",
+        "14": "Upper arch alignment and space closure.",
+        "15": "Upper arch alignment and space closure.",
+        "22": "Upper arch alignment and space closure.",
+        "23": "Upper arch alignment and space closure.",
+        "24": "Upper arch alignment and space closure.",
+        "25": "Upper arch alignment and space closure."
+      },
+      "confidence": 0.9
+    }
+  }
+]

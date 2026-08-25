@@ -1,0 +1,9 @@
+Goals:
+
+1. Please align 3-3 upper and lower
+2. Please remove attachments lower incisors and change attachment lr2 to vertical with mesial bevel 
+3. Please maintain cutouts around existing buttons 
+4. Please add increased buccal root torque upper incisors
+5. Please level incisal edges lower incisors 
+6. Please extrude ul2 to match ur2
+7. Please add minor ipr lower incisors and upright them 

@@ -1,0 +1,6 @@
+finish upper and lower arch alignment
+improve buccal segment seating 
+align UL2 with additional buccal root torque ++ 
+max IPR 0.2mm per contact only if needed
+maintain good overjet and overbite 
+reduce any heavy anterior occlusal contacts 

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "i0",
+    "plan": {
+      "goals": [
+        "close_space",
+        "correct_derotation"
+      ],
+      "move_teeth": [
+        11,
+        12,
+        13,
+        21,
+        22,
+        23,
+        31,
+        32,
+        33,
+        41,
+        42
+      ],
+      "fixed_teeth": [
+        14,
+        15,
+        16,
+        17,
+        24,
+        25,
+        26,
+        27,
+        34,
+        35,
+        36,
+        37,
+        43,
+        44,
+        45,
+        46,
+        47
+      ],
+      "movement_rationale": {
+        "11": "Movement to close space between LL1 and LL2.",
+        "12": "Movement to close space between LL1 and LL2.",
+        "13": "No movement specified, but may be affected by overall arch expansion.",
+        "21": "Buccal translation and derotation to correct UR2 position.",
+        "22": "Buccal translation to move UR2 slightly further out.",
+        "23": "No movement specified, but may be affected by overall arch expansion.",
+        "31": "Movement to close space between LL1 and LL2.",
+        "32": "Movement to close space between LL1 and LL2.",
+        "33": "No movement specified, but may be affected by overall arch expansion.",
+        "41": "Buccal movement of LR2.",
+        "42": "Buccal movement of LR2."
+      },
+      "confidence": 0.8
+    }
+  }
+]

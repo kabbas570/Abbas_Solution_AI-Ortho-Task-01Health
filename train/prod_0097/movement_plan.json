@@ -1,0 +1,52 @@
+[
+  {
+    "id": "i0",
+    "plan": {
+      "goals": [
+        "align_upper_lateral_incisors",
+        "tilt_ur1",
+        "inclined_lr5"
+      ],
+      "move_teeth": [
+        11,
+        12,
+        21,
+        22,
+        35
+      ],
+      "fixed_teeth": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        23,
+        24,
+        25,
+        26,
+        27,
+        31,
+        32,
+        33,
+        34,
+        36,
+        37,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47
+      ],
+      "movement_rationale": {
+        "12": "Align upper lateral incisors to the rest of the teeth.",
+        "22": "Align upper lateral incisors to the rest of the teeth.",
+        "11": "Tilt UR1 to make incisal edge more horizontal and straight.",
+        "21": "Tilt UR1 to make incisal edge more horizontal and straight.",
+        "35": "Incline LR5 more labially."
+      },
+      "confidence": 0.9
+    }
+  }
+]

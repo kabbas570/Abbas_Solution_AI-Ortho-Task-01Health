@@ -1,0 +1,73 @@
+[
+  {
+    "id": "i0",
+    "plan": {
+      "goals": [
+        "align_arch",
+        "correct_tip"
+      ],
+      "move_teeth": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47
+      ],
+      "fixed_teeth": [],
+      "movement_rationale": {
+        "11": "Coordinated upper-arch anterior movement consistent with 'align_arch'.",
+        "12": "Coordinated upper-arch anterior movement consistent with 'align_arch'.",
+        "13": "Coordinated upper-arch anterior movement consistent with 'align_arch'.",
+        "14": "Coordinated upper-arch posterior movement consistent with 'align_arch'.",
+        "15": "Coordinated upper-arch posterior movement consistent with 'align_arch'.",
+        "16": "Coordinated upper-arch posterior movement consistent with 'align_arch'.",
+        "17": "Coordinated upper-arch posterior movement consistent with 'align_arch'.",
+        "21": "Coordinated upper-arch anterior movement consistent with 'align_arch'.",
+        "22": "Coordinated upper-arch anterior movement consistent with 'align_arch'.",
+        "23": "Coordinated upper-arch anterior movement consistent with 'align_arch'.",
+        "24": "Coordinated upper-arch posterior movement consistent with 'align_arch'.",
+        "25": "Coordinated upper-arch posterior movement consistent with 'align_arch'.",
+        "26": "Coordinated upper-arch posterior movement consistent with 'align_arch'.",
+        "27": "Coordinated upper-arch posterior movement consistent with 'align_arch'.",
+        "31": "Coordinated lower-arch anterior movement consistent with 'align_arch'.",
+        "32": "Coordinated lower-arch anterior movement consistent with 'align_arch'.",
+        "33": "Coordinated lower-arch anterior movement consistent with 'align_arch'.",
+        "34": "Coordinated lower-arch posterior movement consistent with 'align_arch'.",
+        "35": "Coordinated lower-arch posterior movement consistent with 'align_arch'.",
+        "36": "Coordinated lower-arch posterior movement consistent with 'align_arch'.",
+        "37": "Coordinated lower-arch posterior movement consistent with 'align_arch'.",
+        "41": "Coordinated lower-arch anterior movement consistent with 'align_arch'.",
+        "42": "Coordinated lower-arch anterior movement consistent with 'align_arch'.",
+        "43": "Coordinated lower-arch anterior movement consistent with 'align_arch'.",
+        "44": "Coordinated lower-arch posterior movement consistent with 'align_arch'.",
+        "45": "Coordinated lower-arch posterior movement consistent with 'align_arch'.",
+        "46": "Coordinated lower-arch posterior movement consistent with 'align_arch'.",
+        "47": "Coordinated lower-arch posterior movement consistent with 'align_arch'."
+      },
+      "confidence": 0.9
+    }
+  }
+]

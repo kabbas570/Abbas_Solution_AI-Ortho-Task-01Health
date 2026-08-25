@@ -1,0 +1,54 @@
+[
+  {
+    "id": "i0",
+    "plan": {
+      "goals": [
+        "align_arch",
+        "correct_tip"
+      ],
+      "move_teeth": [
+        12,
+        13,
+        22,
+        23,
+        32,
+        33,
+        42,
+        43
+      ],
+      "fixed_teeth": [
+        11,
+        14,
+        15,
+        16,
+        17,
+        21,
+        24,
+        25,
+        26,
+        27,
+        31,
+        34,
+        35,
+        36,
+        37,
+        41,
+        44,
+        45,
+        46,
+        47
+      ],
+      "movement_rationale": {
+        "13": "Distal out and buccal crown torque to correct tip.",
+        "23": "Buccal crown torque and settle into occlusion.",
+        "33": "Distal out and mesial in to correct tip.",
+        "43": "Buccal crown torque to settle into occlusion.",
+        "12": "Correct tip and align 3-3 upper.",
+        "22": "Align 3-3 upper.",
+        "32": "Align 3-3 lower.",
+        "42": "Align 3-3 lower."
+      },
+      "confidence": 0.9
+    }
+  }
+]
